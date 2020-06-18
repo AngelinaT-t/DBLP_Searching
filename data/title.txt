@@ -1,0 +1,2258 @@
+Guest Editorial: Special Issue on Interactive Visual Analysis of Human and Crowd Behaviors.
+Chronodes: Interactive Multifocus Exploration of Event Sequences.
+VisForum: A Visual Analysis System for Exploring User Groups in Online Forums.
+A Visual Analytics Framework for Exploring Theme Park Dynamics.
+Visualizing Research Impact through Citation Data.
+A Visual Approach for Interactive Keyterm-Based Clustering.
+Updatable, Accurate, Diverse, and Scalable Recommendations for Interactive Applications.
+Diversity, Serendipity, Novelty, and Coverage: A Survey and Empirical Analysis of Beyond-Accuracy Objectives in Recommender Systems.
+The Effect of Embodied Interaction in Visual-Spatial Navigation.
+A User Perception-Based Approach to Create Smiling Embodied Conversational Agents.
+Introduction to the Special Issue on Big Personal Data in Interactive Intelligent Systems.
+Discovering User Behavioral Features to Enhance Information Search on Big Data.
+Making Machine-Learning Applications for Time-Series Sensor Data Graphical and Interactive.
+Have You Lost the Thread? Discovering Ongoing Conversations in Scattered Dialog Blocks.
+Interacting with Recommenders - Overview and Research Directions.
+Empathy in Virtual Agents and Robots: A Survey.
+Detecting Users' Cognitive Load by Galvanic Skin Response with Affective Interference.
+Effects of Speed, Cyclicity, and Dimensionality on Distancing, Time, and Preference in Human-Aerial Vehicle Interactions.
+Active Learning and Visual Analytics for Stance Classification with ALVA.
+Evaluation of Facial Expression Recognition by a Smart Eyewear for Facial Direction Changes, Repeatability, and Positional Drift.
+Exploring Audience Response in Performing Arts with a Brain-Adaptive Digital Performance System.
+Adaptive Contextualization Methods for Combating Selection Bias during High-Dimensional Visualization.
+Supporting Exploratory Search with a Visual User-Driven Approach.
+Quantifying Collaboration with a Co-Creative Drawing Agent.
+Introduction to the Special Issue on New Directions in Eye Gaze for Interactive Intelligent Systems.
+See You See Me: The Role of Eye Contact in Multimodal Human-Robot Interaction.
+A Gaze-Contingent Adaptive Virtual Reality Driving Environment for Intervention in Individuals with Autism Spectrum Disorders.
+Prediction of Who Will Be the Next Speaker and When Using Gaze Behavior in Multiparty Meetings.
+Automatic Classification of Leading Interactions in a String Quartet.
+Adaptive Body Gesture Representation for Automatic Emotion Recognition.
+Interactive Topic Modeling for Exploring Asynchronous Online Conversations: Design and Evaluation of ConVisIT.
+Supporting the Design of Machine Learning Workflows with a Recommendation System.
+High-Volume Hypothesis Testing: Systematic Exploration of Event Sequence Comparisons.
+Transfer Learning for Semisupervised Collaborative Recommendation.
+Agents Vs. Users: Visual Recommendation of Research Talks with Multiple Dimension of Relevance.
+The Effects of Interpersonal Attitude of a Group of Agents on User's Presence and Proxemics Behavior.
+A Dynamic Pen-Based Interface for Writing and Editing Complex Mathematical Expressions With Math Boxes.
+The Stability and Usability of Statistical Topic Models.
+Minimal Interaction Content Discovery in Recommender Systems.
+Beyond the Touchscreen: An Exploration of Extending Interactions on Commodity Smartphones.
+Using Video to Automatically Detect Learner Affect in Computer-Enabled Classrooms.
+Teaching Social Communication Skills Through Human-Agent Interaction.
+Automatic Analysis of Naturalistic Hand-Over-Face Gestures.
+Using Respiration to Predict Who Will Speak Next and When in Multiparty Meetings.
+Intelligent Biohazard Training Based on Real-Time Task Recognition.
+Adapting the Interactive Activation Model for Context Recognition and Identification.
+Design and Exploration of Mid-Air Authentication Gestures.
+Multimodal Analysis and Prediction of Persuasiveness in Online Social Multimedia.
+Introduction to the Special Issue on Human Interaction with Artificial Advice Givers.
+Effects of the Advisor and Environment on Requesting and Complying With Automated Advice.
+Inferring Capabilities of Intelligent Agents from Their External Traits.
+A Multimodal Approach to Assessing User Experiences with Agent Helpers.
+Providing Arguments in Discussions on the Basis of the Prediction of Human Argumentative Behavior.
+VizRec: Recommending Personalized Visualizations.
+Exploring the Benefits of Context in 3D Gesture Recognition for Game-Based Virtual Environments.
+Human Tutorial Instruction in the Raw.
+Gaze and Attention Management for Embodied Conversational Agents.
+Emotional States Associated with Music: Classification, Prediction of Changes, and Consideration in Recommendation.
+A Wearable Assistant for Gait Training for Parkinson's Disease with Freezing of Gait in Out-of-the-Lab Environments.
+Brief Introduction to the Special Issue on Behavior Understanding for Arts and Entertainment.
+The VideoMob Interactive Art Installation Connecting Strangers through Inclusive Digital Crowds.
+Affective Analysis of Professional and Amateur Abstract Paintings Using Statistical Analysis and Art Theory.
+A General-Purpose Sensing Floor Architecture for Human-Environment Interaction.
+Context-Aware Automated Analysis and Annotation of Social Human-Agent Interactions.
+Behavior Understanding for Arts and Entertainment.
+Interactive Visuals as Metaphors for Dance Movement Qualities.
+Quantitative Study of Music Listening Behavior in a Smartphone Context.
+The WOZ Recognizer: A Wizard of Oz Sketch Recognition System.
+Exploratory Visual Analysis and Interactive Pattern Extraction from Semi-Structured Data.
+A Review and Taxonomy of Interactive Optimization Methods in Operations Research.
+Adaptive Real-Time Emotion Recognition from Body Movements.
+The MovieLens Datasets: History and Context.
+A Process for Systematic Development of Symbolic Models for Activity Recognition.
+"I'll Be There Next": A Multiplex Care Robot System that Conveys Service Order Using Gaze Gestures.
+Generating Robot Gaze on the Basis of Participation Roles and Dominance Estimation in Multiparty Interaction.
+PromotionRank: Ranking and Recommending Grocery Product Promotions Using Personal Shopping Lists.
+Experiments with Mobile Drama in an Instrumented Museum for Inducing Conversation in Small Groups.
+Introduction to the Special Issue on Interactive Computational Visual Analytics.
+Evaluation of Normal Model Visualization for Anomaly Detection in Maritime Traffic.
+Employing a Parametric Model for Analytic Provenance.
+Regression Cube: A Technique for Multidimensional Visual Exploration and Interactive Pattern Finding.
+Modeling User Preferences in Recommender Systems: A Classification Framework for Explicit and Implicit User Feedback.
+Collaborative Language Models for Localized Query Prediction.
+Context-Sensitive Affect Recognition for a Robotic Game Companion.
+Inferring Visualization Task Properties, User Performance, and User Cognitive Abilities from Eye Gaze Data.
+Introduction to the Special Issue on Machine Learning for Multiple Modalities in Interactive Systems and Robots.
+Efficient Interactive Multiclass Learning from Binary Feedback.
+Interpreting Natural Language Instructions Using Language, Vision, and Behavior.
+Machine Learning for Social Multiparty Human-Robot Interaction.
+Nonstrict Hierarchical Reinforcement Learning for Interactive Systems and Robots.
+Introduction to the Special Issue on Activity Recognition for Interaction.
+USMART: An Unsupervised Semantic Mining Activity Recognition Technique.
+Automatic Detection of Social Behavior of Museum Visitor Pairs.
+Adaptive Gesture Recognition with Variation Estimation for Interactive Systems.
+Affectionate Interaction with a Small Humanoid Robot Capable of Recognizing Social Touch Behavior.
+Incremental Learning of Daily Routines as Workflows in a Smart Home Environment.
+A Stimulus-Response Framework for Robot Control.
+Introduction to the special section on internet-scale human problem solving.
+An internet-scale idea generation system.
+Phrase detectives: Utilizing collective intelligence for internet-scale language resource creation.
+Interacting with social networks of intelligent things and people in the world of gastronomy.
+picoTrans: An intelligent icon-driven interface for cross-lingual communication.
+Introduction to the special issue on interaction with smart objects.
+Cooperative augmentation of mobile smart objects with projected displays.
+Embodying services into physical places: Toward the design of a mobile environment browser.
+Introduction to the special section on eye gaze and conversation.
+Gaze awareness in conversational agents: Estimating a user's conversational engagement from eye gaze.
+Gaze and turn-taking behavior in casual conversational interactions.
+In Memoriam: John Riedl.
+LiveAction: Automating Web Task Model Generation.
+Characterizing and Predicting the Multifaceted Nature of Quality in Educational Web Resources.
+Plan Recognition and Visualization in Exploratory Learning Environments.
+Human Decision Making and Recommender Systems.
+An English-Language Argumentation Interface for Explanation Generation with Markov Decision Processes in the Domain of Academic Advising.
+Rating Bias and Preference Acquisition.
+Making Decisions about Privacy: Information Disclosure in Context-Aware Recommender Systems.
+Integrated online localization and navigation for people with visual impairments using smart phones.
+Fluid gesture interaction design: Applications of continuous recognition for the design of modern gestural interfaces.
+Design and evaluation techniques for authoring interactive and stylistic behaviors.
+Triggering effective social support for online groups.
+Task model-driven realization of interactive application functionality through services.
+Content-based tag propagation and tensor factorization for personalized item recommendation based on social tagging.
+Introduction to the special issue on affective interaction in natural environments.
+Emotional body language displayed by artificial agents.
+Eliciting caregiving behavior in dyadic human-robot attachment-like interactions.
+Spotting laughter in natural multiparty conversations: A comparison of automatic online and offline approaches using audiovisual data.
+Continuous body and hand gesture recognition for natural human-computer interaction.
+A multitask approach to continuous five-dimensional affect sensing in natural speech.
+Affect recognition based on physiological changes during the watching of music videos.
+A Computational Framework for Media Bias Mitigation.
+Influencing Individually: Fusing Personalization and Persuasion.
+Adaptive Persuasive Systems: A Study of Tailored Persuasive Text Messages to Reduce Snacking.
+Investigating the Persuasion Potential of Recommender Systems from a Quality Perspective: An Empirical Study.
+System Personality and Persuasion in Human-Computer Dialogue.
+The Tag Genome: Encoding Community Knowledge to Support Novel Interaction.
+Introduction to the Special Issue on Common Sense for Interactive Systems.
+Capturing Common Knowledge about Tasks: Intelligent Assistance for To-Do Lists.
+Say Anything: Using Textual Case-Based Reasoning to Enable Open-Domain Interactive Storytelling.
+Planning for Reasoning with Multiple Common Sense Knowledge Bases.
+Common Sense Reasoning for Detection, Prevention, and Mitigation of Cyberbullying.
+Introduction to the special issue on highlights of the decade in interactive intelligent systems.
+People, sensors, decisions: Customizable and adaptive technologies for assistance in healthcare.
+Access to multimodal articles for individuals with sight impairments.
+Multimodal behavior and interaction as indicators of cognitive load.
+AutoTutor and affective autotutor: Learning by talking with cognitively and emotionally intelligent computers that talk back.
+Creating personalized systems that people can scrutinize and control: Drivers, principles and experience.
+Introduction to the Transactions on Interactive Intelligent Systems.
+Why-oriented end-user debugging of naive Bayes text classification.
+Active multiple kernel learning for interactive 3D object retrieval systems.
+Recognizing sketched multistroke primitives.
+Multimodal approach to affective human-robot interaction design with children.
+Introduction to the special issue on eye gaze in intelligent human-machine interaction.
+Gaze guidance reduces the number of collisions with pedestrians in a driving simulator.
+Attentive documents: Eye tracking as implicit feedback for information retrieval and beyond.
+Gliding and saccadic gaze gesture recognition in real time.
+Taming Mona Lisa: Communicating gaze faithfully in 2D and 3D facial projections.
+Conversational gaze mechanisms for humanlike robots.
+Adaptive eye gaze patterns in interactions with human and artificial agents.
+Refined-Graph Regularization-Based Nonnegative Matrix Factorization.
+Multifeature Anisotropic Orthogonal Gaussian Process for Automatic Age Estimation.
+Finding Semantically Valid and Relevant Topics by Association-Based Topic Selection Model.
+ACM TIST Special Issue on Data-Driven Intelligence for Wireless Networking.
+Energy-Efficient Mobile Video Streaming: A Location-Aware Approach.
+UMCR: User Interaction-Driven Mobile Content Retrieval.
+TensorBeat: Tensor Decomposition for Monitoring Multiperson Breathing Beats with Commodity WiFi.
+Exploring Indoor White Spaces in Metropolises.
+Secure IoT-Based, Incentive-Aware Emergency Personnel Dispatching Scheme with Weighted Fine-Grained Access Control.
+DMAD: Data-Driven Measuring of Wi-Fi Access Point Deployment in Urban Spaces.
+Taking the Pulse of US College Campuses with Location-Based Anonymous Mobile Apps.
+From Electromyogram to Password: Exploring the Privacy Impact of Wearables in Augmented Reality.
+Knowledge Representations and Inference Techniques for Medical Question Answering.
+SocialWave: Visual Analysis of Spatio-temporal Diffusion of Information on Social Media.
+Supervised Representation Learning with Double Encoding-Layer Autoencoder for Transfer Learning.
+Understanding and Identifying Rhetorical Questions in Social Media.
+Iteratively Divide-and-Conquer Learning for Nonlinear Classification and Ranking.
+Stopping Criterion for Active Learning with Model Stability.
+SPACE-TA: Cost-Effective Task Allocation Exploiting Intradata and Interdata Correlations in Sparse Crowdsensing.
+Vertical Ensemble Co-Training for Text Classification.
+Real-Time Human Mobility Modeling with Multi-View Learning.
+ACM TIST Special Issue on Urban Intelligence.
+Risk-Sensitive Stochastic Orienteering Problems for Trip Optimization in Urban Environments.
+A Multiagent-Based Approach for Vehicle Routing by Considering Both Arriving on Time and Total Travel Time.
+Scalable Urban Mobile Crowdsourcing: Handling Uncertainty in Worker Movement.
+Simulating Urban Pedestrian Crowds of Different Cultures.
+A Comfort-Based Approach to Smart Heating and Air Conditioning.
+Spotting Trip Purposes from Taxi Trajectories: A General Probabilistic Model.
+Personalized Air Travel Prediction: A Multi-factor Perspective.
+A Data Mining Approach to Assess Privacy Risk in Human Mobility Data.
+Using Online Geotagged and Crowdsourced Data to Understand Human Offline Behavior in the City: An Economic Perspective.
+Social Bridges in Urban Purchase Behavior.
+GeoBurst+: Effective and Real-Time Local Event Detection in Geo-Tagged Tweet Streams.
+illiad: InteLLigent Invariant and Anomaly Detection in Cyber-Physical Systems.
+Energy Usage Behavior Modeling in Energy Disaggregation via Hawkes Processes.
+A Real-Time Framework for Task Assignment in Hyperlocal Spatial Crowdsourcing.
+A Review of Co-Saliency Detection Algorithms: Fundamentals, Applications, and Challenges.
+Virtual Metering: An Efficient Water Disaggregation Algorithm via Nonintrusive Load Monitoring.
+A Multi-Label Multi-View Learning Framework for In-App Service Usage Analysis.
+Concept and Attention-Based CNN for Question Retrieval in Multi-View Learning.
+A Novel Image-Centric Approach Toward Direct Volume Rendering.
+Quick Bootstrapping of a Personalized Gaze Model from Real-Use Interactions.
+A Bayesian Approach to Intervention-Based Clustering.
+Sparse Passive-Aggressive Learning for Bounded Online Kernel Methods.
+Evolutionary Strategy to Perform Batch-Mode Active Learning on Multi-Label Data.
+Modeling Queries with Contextual Snippets for Information Retrieval.
+Fuzzy Cognitive Diagnosis for Modelling Examinee Performance.
+SNAP: A General-Purpose Network Analysis and Graph-Mining Library.
+Topic-Aware Physical Activity Propagation with Temporal Dynamics in a Health Social Network.
+Multiagent Resource Allocation for Dynamic Task Arrivals with Preemption.
+Dynamic Scheduling of Cybersecurity Analysts for Minimizing Risk Using Reinforcement Learning.
+Using Scalable Data Mining for Predicting Flight Delays.
+Recognizing Parkinsonian Gait Pattern by Exploiting Fine-Grained Movement Function Features.
+Measuring Similarity Similarly: LDA and Human Perception.
+CSM: A Cloud Service Marketplace for Complex Service Acquisition.
+A Unified Point-of-Interest Recommendation Framework in Location-Based Social Networks.
+Enhanced Knowledge-Leverage-Based TSK Fuzzy System Modeling for Inductive Transfer Learning.
+A Spatial-Temporal Topic Model for the Semantic Annotation of POIs in LBSNs.
+Dystemo: Distant Supervision Method for Multi-Category Emotion Recognition in Tweets.
+Driving Profiles Computation and Monitoring for Car Insurance CRM.
+Soft Confidence-Weighted Learning.
+Tensors for Data Mining and Data Fusion: Models, Applications, and Scalable Algorithms.
+Introduction to Intelligent Music Systems and Applications.
+A Joyful Ode to Automatic Orchestration.
+Harnessing Music-Related Visual Stereotypes for Music Information Retrieval.
+Sound and Music Recommendation with Knowledge Graphs.
+Towards Music Structural Segmentation across Genres: Features, Structural Hypotheses, and Annotation Principles.
+Learning Contextualized Music Semantics from Tags Via a Siamese Neural Network.
+Intelligent Process Adaptation in the SmartPM System.
+SMARTS: Scalable Microscopic Adaptive Road Traffic Simulator.
+Differential Flattening: A Novel Framework for Community Detection in Multi-Layer Graphs.
+Joint Structured Sparsity Regularized Multiview Dimension Reduction for Video-Based Facial Expression Recognition.
+Prediction and Simulation of Human Mobility Following Natural Disasters.
+A Supervised Learning Model for High-Dimensional and Large-Scale Data.
+Implicit Visual Learning: Image Recognition via Dissipative Learning Model.
+Efficient Methods for Influence-Based Network-Oblivious Community Detection.
+Community Detection with Topological Structure and Attributes in Information Networks.
+Mobile Social Multimedia Analytics in the Big Data Era: An Introduction to the Special Issue.
+Event Classification in Microblogs via Social Tracking.
+Learning User Attributes via Mobile Social Multimedia Analytics.
+Large Sparse Cone Non-negative Matrix Factorization for Image Annotation.
+Location-Based Parallel Tag Completion for Geo-Tagged Social Image Retrieval.
+Exploiting Social-Mobile Information for Location Visualization.
+Cost-Optimized Microblog Distribution over Geo-Distributed Data Centers: Insights from Cross-Media Analysis.
+Directly Optimize Diversity Evaluation Measures: A New Approach to Search Result Diversification.
+Nonnegative Matrix Factorization with Integrated Graph and Feature Learning.
+Modeling Topics and Behavior of Microbloggers: An Integrated Approach.
+CRADLE: An Online Plan Recognition Algorithm for Exploratory Domains.
+A Distribution Separation Method Using Irrelevance Feedback Data for Information Retrieval.
+ST-SAGE: A Spatial-Temporal Sparse Additive Generative Model for Spatial Item Recommendation.
+The Letter from Prof. Maj. Gen. (Ret.) Isaac Ben-Israel.
+Cyber Security and the Role of Intelligent Systems in Addressing its Challenges.
+Bridging the Air Gap between Isolated Networks and Mobile Phones in a Practical Cyber-Attack.
+Understanding the Relationship between Human Behavior and Susceptibility to Cyber Attacks: A Data-Driven Approach.
+Optimal Scheduling of Cybersecurity Analysts for Minimizing Risk.
+A Risk-Scoring Feedback Model for Webpages and Web Users Based on Browsing Behavior.
+Securely Computing a Ground Speed Model.
+Automatic Construction of Statechart-Based Anomaly Detection Models for Multi-Threaded Industrial Control Systems.
+On Network Neutrality Measurements.
+Analyzing and Optimizing Access Control Choice Architectures in Online Social Networks.
+Tracking Illicit Drug Dealing and Abuse on Instagram Using Multimodal Analysis.
+Advanced Economic Control of Electricity-Based Space Heating Systems in Domestic Coalitions with Shared Intermittent Energy Resources.
+Algorithms for Graph-Constrained Coalition Formation in the Real World.
+Data-Driven Frequency-Based Airline Profit Maximization.
+Unveiling Correlations via Mining Human-Thing Interactions in the Web of Things.
+As-You-Type Social Aware Search.
+Sparse Online Learning of Image Similarity.
+Transfer Learning for Behavior Ranking.
+Homogeneity in Web Search Results: Diagnosis and Mitigation.
+Visual Classification of Furniture Styles.
+Adult Image and Video Recognition by a Deep Multicontext Network and Fine-to-Coarse Strategy.
+DUCT: An Upper Confidence Bound Approach to Distributed Constraint Optimization Problems.
+RCMC: Recognizing Crowd-Mobility Patterns in Cities Based on Location Based Social Networks Data.
+Augmented Collaborative Filtering for Sparseness Reduction in Personalized POI Recommendation.
+P2P Lending Survey: Platforms, Recent Advances and Prospects.
+Social Incentives in Paid Collaborative Crowdsourcing.
+A Traffic Flow Approach to Early Detection of Gathering Events: Comprehensive Results.
+Multi-Hypergraph Consistent Sparse Coding.
+Personalized Microtopic Recommendation on Microblogs.
+Rating Effects on Social News Posts and Comments.
+Exploring Communication Behaviors of Users to Target Potential Users in Mobile Social Networks.
+An Unsupervised Approach to Inferring the Localness of People Using Incomplete Geotemporal Online Check-In Data.
+PRISM: Profession Identification in Social Media.
+Detecting Communities of Authority and Analyzing Their Influence in Dynamic Social Networks.
+Robust Spammer Detection in Microblogs: Leveraging User Carefulness.
+Learning to Rank from Noisy Data.
+Local Structure-Based Sparse Representation for Face Recognition.
+On Optimizing Airline Ticket Purchase Timing.
+Nonnegative Multiresolution Representation-Based Texture Image Classification.
+Multi-Keyword Multi-Click Advertisement Option Contracts for Sponsored Search.
+Analysis of the Impact of a Tag Recommendation System in a Real-World Folksonomy.
+A Hybrid Background Subtraction Method with Background and Foreground Candidates Detection.
+On Learning Prediction Models for Tourists Paths.
+Where2Stand: A Human Position Recommendation System for Souvenir Photography.
+Metastrategies in Large-Scale Bargaining Settings.
+Spatiotemporal Sequential Influence Modeling for Location Recommendations: A Gravity-based Approach.
+On-Device Mobile Landmark Recognition Using Binarized Descriptor with Multifeature Fusion.
+On Estimation of Functional Causal Models: General Results and Application to the Post-Nonlinear Causal Model.
+From Observational Studies to Causal Rule Mining.
+Gestures à Go Go: Authoring Synthetic Human-Like Stroke Gestures Using the Kinematic Theory of Rapid Movements.
+Event Extraction using Structured Learning and Rich Domain Knowledge: Application across Domains and Data Sources.
+Preface to the ACM TIST Special Issue on Causal Discovery and Inference.
+Sharp Bounds on Survivor Average Causal Effects When the Outcome Is Binary and Truncated by Death.
+Semiparametric Inference of the Complier Average Causal Effect with Nonignorable Missing Outcomes.
+Bounds on Direct and Indirect Effects of Treatment on a Continuous Endpoint.
+Causal Discovery on Discrete Data with Extensions to Mixture Model.
+Gaussian Processes for Independence Tests with Non-iid Data in Causal Inference.
+Learning Perceptual Causality from Video.
+A Novel Continuous and Structural VAR Modeling Approach and Its Application to Reactor Noise Analysis.
+A Causal Approach to the Study of TCP Performance.
+Beyond Relevance: Explicitly Promoting Novelty and Diversity in Tag Recommendation.
+Parameterized Decay Model for Information Retrieval.
+Mutual Component Analysis for Heterogeneous Face Recognition.
+Generating Incremental Length Summary Based on Hierarchical Topic Coverage Maximization.
+Participatory Cultural Mapping Based on Collective Behavior Data in Location-Based Social Networks.
+Location Prediction: A Temporal-Spatial Bayesian Model.
+Video Face Editing Using Temporal-Spatial-Smooth Warping.
+Multimedia News Summarization in Search.
+S-SMART: A Unified Bayesian Framework for Simultaneous Semantic Mapping, Activity Recognition, and Tracking.
+Incentive Mechanism Design for Crowdsourcing: An All-Pay Auction Approach.
+Intelligent Evacuation Management Systems: A Review.
+A Comprehensive Survey on Pose-Invariant Face Recognition.
+Introduction to the Special Issue on Recommender System Benchmarking.
+Relevance Meets Coverage: A Unified Framework to Generate Diversified Recommendations.
+The Role of Cores in Recommender Benchmarking for Social Bookmarking Systems.
+A Framework for Dataset Benchmarking and Its Application to a New Movie Rating Dataset.
+A Novel Classification Framework for Evaluating Individual and Aggregate Diversity in Top-N Recommendations.
+Introduction to the Special Issue on Crowd in Intelligent Systems.
+Crowdsourcing Without a Crowd: Reliable Online Species Identification Using Bayesian Models to Minimize Crowd Size.
+A Crowd-Powered System for Fashion Similarity Search.
+Rapid Low-Cost Virtual Human Bootstrapping via the Crowd.
+Incentives for Effort in Crowdsourcing Using the Peer Truth Serum.
+PPLib: Toward the Automated Generation of Crowd Computing Programs Using Process Recombination and Auto-Experimentation.
+Using the Crowd to Improve Search Result Ranking and the Search Experience.
+Crowdsourcing Empathetic Intelligence: The Case of the Annotation of EMMA Database for Emotion and Mood Recognition.
+Using Crowdsourcing for Scientific Analysis of Industrial Tomographic Images.
+CITY FEED: A Pilot System of Citizen-Sourcing for City Issue Management.
+Leveraging Human Computations to Improve Schematization of Spatial Relations from Imagery.
+A Game-Theory Approach for Effective Crowdsource-Based Relevance Assessment.
+Crowdsourcing Human Annotation on Web Page Structure: Infrastructure Design and Behavior-Based Quality Control.
+Modality-Dependent Cross-Media Retrieval.
+Designing Noise-Minimal Rotorcraft Approach Trajectories.
+STCAPLRS: A Spatial-Temporal Context-Aware Personalized Location Recommendation System.
+Efficient Generalized Fused Lasso and Its Applications.
+Multimodular Text Normalization of Dutch User-Generated Content.
+Robust Decentralized Low-Rank Matrix Decomposition.
+Telco User Activity Level Prediction with Massive Mobile Broadband Data.
+Coranking the Future Influence of Multiobjects in Bibliographic Network Through Mutual Reinforcement.
+Multitask Low-Rank Affinity Graph for Image Segmentation and Image Annotation.
+When Location Meets Social Multimedia: A Survey on Vision-Based Recognition and Mining for Geo-Social Multimedia Analytics.
+A Fast Parallel Stochastic Gradient Method for Matrix Factorization in Shared Memory Systems.
+Transfer Learning across Feature-Rich Heterogeneous Feature Spaces via Feature-Space Remapping (FSR).
+On Discovery of Spatiotemporal Influence-Based Moving Clusters.
+Identifying Controversial Wikipedia Articles Using Editor Collaboration Networks.
+Resources Sequencing Using Automatic Prerequisite-Outcome Annotation.
+Modeling the Thermal Dynamics of Buildings: A Latent-Force- Model-Based Approach.
+A Sparse Projection and Low-Rank Recovery Framework for Handwriting Representation and Salient Stroke Feature Extraction.
+Combining Sketching and Traditional Diagram Editing Tools.
+Visual Understanding with RGB-D Sensors: An Introduction to the Special Issue.
+Kinect Depth Recovery Using a Color-Guided, Region-Adaptive, and Depth-Selective Framework.
+Depth Error Elimination for RGB-D Cameras.
+A Combined Approach Toward Consistent Reconstructions of Indoor Spaces Based on 6D RGB-D Odometry and KinectFusion.
+Robust Multiview Feature Learning for RGB-D Image Understanding.
+From RGB-D Images to RGB Images: Single Labeling for Mining Visual Models.
+Accurate and Robust Moving-Object Segmentation for Telepresence Systems.
+Fusing Multiple Features for Depth-Based Action Recognition.
+An Evaluation of Gamesourced Data for Human Pose Estimation.
+Latent Support Vector Machine Modeling for Sign Language Recognition with Kinect.
+A Real-Time Hand Posture Recognition System Using Deep Neural Networks.
+Real-Time System for Driver Fatigue Detection by RGB-D Camera.
+An Approach to Ballet Dance Training through MS Kinect and Visualization in a CAVE Virtual Reality Environment.
+Exploring Spatial Correlation for Visual Object Retrieval.
+Pattern Matching Techniques for Replacing Missing Sections of Audio Streamed across Wireless Networks.
+An Association-Based Unified Framework for Mining Features and Opinion Words.
+A Hybrid Multigroup Coclustering Recommendation Framework Based on Information Fusion.
+Data Mining of Online Genealogy Datasets for Revealing Lifespan Patterns in Human Population.
+Trajectory Data Mining: An Overview.
+Identifying Authorities in Online Communities.
+Who Will Retweet This? Detecting Strangers from Twitter to Retweet Information.
+Simplifying Data Disclosure Configurations in a Cloud Computing Environment.
+TerraFly GeoCloud: An Online Spatial Data Analysis and Visualization System.
+Significant Correlation Pattern Mining in Smart Homes.
+An Introduction to the Special Issue on Participatory Sensing and Crowd Intelligence.
+Sensing the Pulse of Urban Refueling Behavior: A Perspective from Taxi Mobility.
+Ohmage: A General and Extensible End-to-End Participatory Sensing Platform.
+EEMC: Enabling Energy-Efficient Mobile Crowdsensing with Anonymous Participants.
+City-Scale Social Event Detection and Evaluation with Taxi Traces.
+Activity Sensor: Check-In Usage Mining for Local Recommendation.
+An Event-Driven QoI-Aware Participatory Sensing Framework with Energy and Budget Constraints.
+Extracting City Traffic Events from Social Streams.
+Automated Generation of Counterterrorism Policies Using Multiexpert Input.
+Online Planning for Large Markov Decision Processes with Hierarchical Decomposition.
+Soter: Smart Bracelets for Children's Safety.
+Peacock: Learning Long-Tail Topic Features for Industrial Applications.
+Automated Pricing in a Multiagent Prediction Market Using a Partially Observable Stochastic Game.
+Effective Social Graph Deanonymization Based on Graph Structure and Descriptive Information.
+Hazy Image Restoration by Bi-Histogram Modification.
+Introduction to the ACM TIST Special Issue on Intelligent Healthcare Informatics.
+Analyzing Activity Recognition Uncertainties in Smart Home Environments.
+Empowering Patients and Caregivers to Manage Healthcare Via Streamlined Presentation of Web Objects Selected by Modeling Learning Benefits Obtained by Similar Peers.
+Using Health-Consumer-Contributed Data to Detect Adverse Drug Reactions by Association Mining with Temporal Analysis.
+Estimating a Ranked List of Human Genetic Diseases by Associating Phenotype-Gene with Gene-Disease Bipartite Graphs.
+MeTA: Characterization of Medical Treatments at Different Abstraction Levels.
+Smart Colonography for Distributed Medical Databases with Group Kernel Feature Analysis.
+Recognition of Patient-Related Named Entities in Noisy Tele-Health Texts.
+Introduction to special section on intelligent mobile knowledge discovery and management systems.
+Mining geographic-temporal-semantic patterns in trajectories for location prediction.
+A framework of traveling companion discovery on trajectory data streams.
+Mondrian tree: A fast index for spatial alarm processing.
+Introduction to the special issue on social web mining.
+Dynamic joint sentiment-topic model.
+Personalized emerging topic detection based on a term aging model.
+Forecasting with twitter data.
+Campaign extraction from social media.
+Computationally efficient link prediction in a variety of social networks.
+Community detection and visualization in social networks: Integrating structural and semantic information.
+Personalized tag recommendation based on generalized rules.
+Active learning strategies for rating elicitation in collaborative filtering: A system-wide perspective.
+Analyzing user behavior across social sharing environments.
+Audio classification with low-rank matrix representation features.
+Trust and matching algorithms for selecting suitable agents.
+Monitoring business constraints with the event calculus.
+A SAT-based approach to cost-sensitive temporally expressive planning.
+Relational term-suggestion graphs incorporating multipartite concept and expertise networks.
+Effective and efficient microprocessor design space exploration using unlabeled design configurations.
+Norms as a basis for governing sociotechnical systems.
+Introduction to the Special Issue on Linking Social Granularity and Functions.
+Infer User Interests via Link Structure Regularization.
+Cluster-Based Collaborative Filtering for Sign Prediction in Social Networks with Positive and Negative Links.
+CIM: Community-Based Influence Maximization in Social Networks.
+Structure and Overlaps of Ground-Truth Communities in Networks.
+Joint Link Prediction and Attribute Inference Using a Social-Attribute Network.
+Description-Driven Community Detection.
+Learning Probabilistic Hierarchical Task Networks as Probabilistic Context-Free Grammars to Capture User Preferences.
+A Framework for Effectively Choosing between Alternative Candidate Partners.
+Conveying Semantics through Visual Metaphor.
+Mining Check-In History for Personalized Location Naming.
+Exploiting User Preference for Online Learning in Web Content Optimization Systems.
+AutoLCA: A Framework for Sustainable Redesign and Assessment of Products.
+Multi-Label Classification Based on Multi-Objective Optimization.
+Detecting Social Media Hidden Communities Using Dynamic Stochastic Blockmodel with Temporal Dirichlet Process.
+Introduction to the Special Section on Urban Computing.
+Urban Computing: Concepts, Methodologies, and Applications.
+Model-Based Count Series Clustering for Bike Sharing System Usage Mining: A Case Study with the Vélib' System of Paris.
+Mining User Check-In Behavior with a Random Walk for Urban Point-of-Interest Recommendations.
+Using Digital Footprints for a City-Scale Traffic Simulation.
+Charging and Storage Infrastructure Design for Electric Vehicles.
+Object-Oriented Travel Package Recommendation.
+Traffic Information Publication with Privacy Preservation.
+Measuring and Recommending Time-Sensitive Routes from Location-Based Data.
+Check-ins in "Blau Space": Applying Blau's Macrosociological Theory to Foursquare Check-ins from New York City.
+Home Location Identification of Twitter Users.
+Intelligent Interface for Textual Attitude Analysis.
+A Unified Geolocation Framework for Web Videos.
+Personalized Recommendations of Locally Interesting Venues to Tourists via Cross-Region Community Matching.
+VSRank: A Novel Framework for Ranking-Based Collaborative Filtering.
+Introduction to the Special Issue on Diversity and Discovery in Recommender Systems.
+Multiobjective Pareto-Efficient Approaches for Recommender Systems.
+On Unexpectedness in Recommender Systems: Or How to Better Expect the Unexpected.
+Diversifying Citation Recommendations.
+Accurate and Novel Recommendations: An Algorithm Based on Popularity Forecasting.
+Introduction to the Special Issue on Online Advertising.
+Mining Mobile User Preferences for Personalized Context-Aware Recommendation.
+Location- and Query-Aware Modeling of Browsing and Click Behavior in Sponsored Search.
+Sponsored Search Auctions: Recent Advances and Future Directions.
+Simple and Scalable Response Prediction for Display Advertising.
+Real-Time Bid Optimization for Group-Buying Ads.
+Improved Approaches with Calibrated Neighboring Joint Density to Steganalysis and Seam-Carved Forgery Detection in JPEG Images.
+Strategic Information Disclosure to People with Multiple Alternatives.
+Choosing a Candidate Using Efficient Allocation of Biased Information.
+Community Discovery from Social Media by Low-Rank Matrix Recovery.
+Identifying Points of Interest Using Heterogeneous Features.
+Introduction to the special section on twitter and microblogging services.
+A content-driven framework for geolocating microblog users.
+Named entity recognition for tweets.
+Improving recency ranking using twitter data.
+Lexical normalization for social media text.
+Reorder user's tweets.
+Introduction to the special section on social recommender systems.
+Social factors in group recommender systems.
+Generating virtual ratings from chinese reviews to augment online recommendations.
+An approach to social recommendation for context-aware mobile services.
+Improving recommendation accuracy based on item-specific tag preferences.
+A modified random walk framework for handling negative ratings and generating explanations.
+Movie recommendation in context.
+An empirical comparison of social, collaborative filtering, and hybrid recommenders.
+Social temporal collaborative ranking for context aware movie recommendation.
+Mining contextual movie similarity with matrix factorization for context-aware recommendation.
+Mathematical description and analysis of adaptive risk choice behavior.
+An online system for multiple interacting targets tracking: Fusion of laser and vision, tracking and learning.
+Introduction to the special section on agent communication.
+Research directions in agent communication.
+Ten Years of Rich Internet Applications: A Systematic Mapping Study, and Beyond.
+A Model-Based Approach for Crawling Rich Internet Applications.
+Merging Query Results From Local Search Engines for Georeferenced Objects.
+Constructing and Comparing User Mobility Profiles.
+Sentiment-Focused Web Crawling.
+EXIP: A Framework for Embedded Web Development.
+Using Interaction Data to Explain Difficulty Navigating Online.
+Content Bias in Online Health Search.
+Measuring the Visual Complexities of Web Pages.
+Progress on Website Accessibility?
+A Comprehensive Study of Techniques for URL-Based Web Page Language Classification.
+HTML Automatic Table Layout.
+A test-based security certification scheme for web services.
+Enhancing the trust-based recommendation process with explicit distrust.
+A measurement study of insecure javascript practices on the web.
+Understanding query interfaces by statistical parsing.
+A language for end-user web augmentation: Caring for producers and consumers alike.
+Coordinating the web of services for a smart home.
+Assessing relevance and trust of the deep web sources and results based on inter-source agreement.
+A feature-word-topic model for image annotation and retrieval.
+Improving contextual advertising by adopting collaborative filtering.
+Virtual private social networks and a facebook implementation.
+A term-based inverted index partitioning model for efficient distributed query processing.
+The parallel path framework for entity discovery on the web.
+Semantic content-based recommendation of software services using context.
+Understanding latent interactions in online social networks.
+A bottom-up, knowledge-aware approach to integrating and querying web data services.
+Web browsing behavior analysis and interactive hypervideo.
+Robust detection of semi-structured web records using a DOM structure-knowledge-driven model.
+A vlHMM approach to context-aware search.
+Captions and biases in diagnostic search.
+Semantic contextual advertising based on the open directory project.
+ClickRank: Learning Session-Context Models to Enrich Web Search Ranking.
+Identifying Web Spam with the Wisdom of the Crowds.
+Crawling Ajax-Based Web Applications through Dynamic Analysis of User Interface State Changes.
+Quality and Leniency in Online Collaborative Rating Systems.
+Editorial.
+Integrating trust management and access control in data-intensive Web applications.
+A hybrid approach for efficient Web service composition with end-to-end QoS constraints.
+Modellus: Automated modeling of complex internet data center applications.
+Friendship prediction and homophily in social media.
+A model-driven methodology to the content layout problem in web applications.
+Extracting information networks from the blogosphere.
+FoXtrot: Distributed structural and value XML filtering.
+Navigating tomorrow's web: From searching and browsing to visual exploration.
+Cache-Based Query Processing for Search Engines.
+A Methodology for SIP and SOAP Integration Using Application-Specific Protocol Conversion.
+Workload Characterization and Performance Implications of Large-Scale Blog Servers.
+Beyond Social Graphs: User Interactions in Online Social Networks and their Implications.
+Exploiting External Collections for Query Expansion.
+Introduction to special issue on recommender systems.
+Comparison of collaborative filtering algorithms: Limitations of current techniques and proposals for scalable, high-performance recommender systems.
+Using external aggregate ratings for improving individual recommendations.
+Automatic tag recommendation algorithms for social recommender systems.
+Recommending friends and locations based on individual location history.
+Topic Distillation with Query-Dependent Link Connections and Page Characteristics.
+Host-Based P2P Flow Identification and Use in Real-Time.
+Characterizing Web-Based Video Sharing Workloads.
+Cost-Aware Strategies for Query Result Caching in Web Search Engines.
+A Survey of Requirements Specification in Model-Driven Development of Web Applications.
+Designing and Implementing the OP and OP2 Web Browsers.
+A Clustering-Driven LDAP Framework.
+ACConv - An Access Control Model for Conversational Web Services.
+On Computing Deltas of RDF/S Knowledge Bases.
+A Comprehensive Study of Features and Algorithms for URL-Based Topic Classification.
+Building Mashups by Demonstration.
+A Practical Architecture for an Anycast CDN.
+Characterizing Organizational Use of Web-Based Services: Methodology, Challenges, Observations, and Insights.
+Camera Brand Congruence and Camera Model Propagation in the Flickr Social Graph.
+A distributed service-oriented architecture for business process execution.
+Declarative specification and verification of service choreographiess.
+Ads-portal domains: Identification and measurements.
+Reporting incentives and biases in online review forums.
+Optimal distance bounds for fast search on compressed time-series query logs.
+Engineering rich internet applications with a model-driven approach.
+A large-scale study on map search logs.
+Modeling web quality using a probabilistic approach: An empirical validation.
+Privacy-preserving query log mining for business confidentiality protection.
+Exploring XML web collections with DescribeX.
+Discovery of latent subcommunities in a blog's readership.
+AjaxScope: A Platform for Remotely Monitoring the Client-Side Behavior of Web 2.0 Applications.
+Learning Deterministic Regular Expressions for the Inference of Schemas from XML Data.
+Mining Historic Query Trails to Label Long and Rare Search Engine Queries.
+Fast and Compact Web Graph Representations.
+Relating Reputation and Money in Online Markets.
+Methods for extracting place semantics from Flickr tags.
+Protecting browsers from DNS rebinding attacks.
+Browsing on small displays by transforming Web pages into hierarchically structured subpages.
+Classifying search queries using the Web as a source of knowledge.
+A large-scale empirical study of P3P privacy policies: Stated actions vs. legal obligations.
+Extraction and classification of dense implicit communities in the Web graph.
+IRLbot: Scaling to 6 billion pages and beyond.
+Cookies: A deployment study and the testing implications.
+A framework for QoS-based Web service contracting.
+Unified publication and discovery of semantic Web services.
+Trust and nuanced profile similarity in online social networks.
+Search-as-a-service: Outsourced search over outsourced storage.
+Emergence of consensus and shared vocabularies in collaborative tagging systems.
+Introduction to special section on adversarial issues in Web search.
+Link analysis for Web spam detection.
+Tracking Web spam with HTML style similarities.
+Detecting splogs via temporal dynamics using self-similarity analysis.
+Not quite the average: An empirical study of Web use.
+Framework for Web service query algebra and optimization.
+Adaptive quality of service management for enterprise services.
+Discovering global network communities based on local centralities.
+Introduction to special issue on service oriented computing (SOC).
+Automatic annotation of Web services based on workflow definitions.
+Correctness-aware high-level functional matching approaches for semantic Web services.
+Supporting the dynamic evolution of Web service protocols in service-oriented architectures.
+An environment for flexible advanced compensations of Web service transactions.
+Mitigating application-level denial of service attacks on Web servers: A client-transparent approach.
+Leveraging popular destinations to enhance Web search interaction.
+Models and framework for supporting runtime decisions in Web-based systems.
+Introduction to special issue on query log analysis: Technology and ethics.
+A survey of query log privacy-enhancing techniques from a policy perspective.
+Learning about the world through long-term query logs.
+Combating spam in tagging systems: An evaluation.
+Introduction.
+Analytic modeling of multitier Internet applications.
+The comparative effectiveness of sponsored and nonsponsored links for Web e-commerce queries.
+Mobile information access: A study of emerging search behavior on the mobile Internet.
+The dynamics of viral marketing.
+Efficient algorithms for Web services selection with end-to-end QoS constraints.
+Visualizing tags over time.
+Scouts, promoters, and connectors: The roles of ratings in nearest-neighbor collaborative filtering.
+The effects of proxy bidding and minimum bid increments within eBay auctions.
+Decoding the structure of the WWW: A comparative analysis of Web crawls.
+BrowserShield: Vulnerability-driven filtering of dynamic HTML.
+Model-directed Web transactions under constrained modalities.
+Cache architecture for on-demand streaming on the Web.
+Modeling process-driven and service-oriented architectures using patterns and pattern primitives.
+Learning to detect events with Markov-modulated poisson processes.
+Assessing data mining results via swap randomization.
+Topic taxonomy adaptation for group profiling.
+Finding hierarchical heavy hitters in streaming data.
+Learning correlations using the mixture-of-subsets model.
+A clustering framework based on subjective and objective validity criteria.
+Comparing the Archival Rate of Arabic, English, Danish, and Korean Language Web Pages.
+Clustered Elias-Fano Indexes.
+GVoS: A General System for Near-Duplicate Video-Related Applications on Storm.
+Unifying Virtual and Physical Worlds: Learning Toward Local and Global Consistency.
+IDF for Word N-grams.
+SWIM: Stepped Weighted Shell Decomposition Influence Maximization for Large-Scale Networks.
+Yum-Me: A Personalized Nutrient-Based Meal Recommender System.
+Search Result Diversification in Short Text Streams.
+Learning to Align Comments to News Topics.
+Inferring Dynamic User Interests in Streams of Short Texts for User Clustering.
+Enhancing Topic Modeling for Short Texts with Auxiliary Word Embeddings.
+Using Replicates in Information Retrieval Evaluation.
+Social Influence Spectrum at Scale: Near-Optimal Solutions for Multiple Budgets at Once.
+Active Learning for Classification with Maximum Model Change.
+DBpedia-Based Entity Linking via Greedy Search and Adjusted Monte Carlo Random Walk.
+Parallelization of Massive Textstream Compression Based on Compressed Sensing.
+Modeling and Mining Domain Shared Knowledge for Sentiment Analysis.
+What Does Affect the Correlation Among Evaluation Measures?
+AWARE: Exploiting Evaluation Measures to Combine Multiple Assessors.
+Understanding and Leveraging the Impact of Response Latency on User Behaviour in Web Search.
+Local Representative-Based Matrix Factorization for Cold-Start Recommendation.
+Suggesting Points-of-Interest via Content-Based, Collaborative, and Hybrid Fusion Methods in Mobile Devices.
+Towards Efficient Framework for Time-Aware Spatial Keyword Queries on Road Networks.
+Explicit Diversification of Event Aspects for Temporal Summarization.
+Exploiting User and Venue Characteristics for Fine-Grained Tweet Geolocation.
+Automatically Learning Topics and Difficulty Levels of Problems in Online Judge Systems.
+Selective Cluster Presentation on the Search Results Page.
+Joint Modeling of Participant Influence and Latent Topics for Recommendation in Event-based Social Networks.
+The Characteristics of Voice Search: Comparing Spoken with Typed-in Mobile Web Search Queries.
+Unsupervised Learning of Parsimonious General-Purpose Embeddings for User and Location Modeling.
+GeoMF++: Scalable Location Recommendation via Joint Geographical Modeling and Matrix Factorization.
+QuoteRec: Toward Quote Recommendation for Writing.
+Accounting for Language Changes Over Time in Document Similarity Search.
+The Effects of Aggregated Search Coherence on Search Behavior.
+Causal Relationship Detection in Archival Collections of Product Reviews for Understanding Technology Evolution.
+Social Question Answering: Textual, User, and Network Features for Best Answer Prediction.
+Trip Recommendation Meets Real-World Constraints: POI Availability, Diversity, and Traveling Time Uncertainty.
+Answering Arabic Why-Questions: Baseline vs. RST-Based Approach.
+A Meta-Framework for Modeling the Human Reading Process in Sentiment Analysis.
+A Probabilistic Lifestyle-Based Trajectory Model for Social Strength Inference from Human Trajectory Data.
+Cross-Lingual Topic Discovery From Multilingual Search Engine Query Log.
+Ranking-Oriented Collaborative Filtering: A Listwise Approach.
+Joint Modeling of User Check-in Behaviors for Real-time Point-of-Interest Recommendation.
+Boosting Recommendation in Unexplored Categories by User Price Preference.
+Learning Informative Priors from Heterogeneous Domains to Improve Recommendation in Cold-Start User Domains.
+Context Trees: Augmenting Geospatial Trajectories with Context.
+Fast Ranking with Additive Ensembles of Oblivious and Non-Oblivious Regression Trees.
+Time-Aware Click Model.
+Hilbert Exclusion: Improved Metric Search through Finite Isometric Embeddings.
+Cost-Effective Online Trending Topic Detection and Popularity Prediction in Microblogging.
+On Crowdsourcing Relevance Magnitudes for Information Retrieval Evaluation.
+Targeted Advertising in Public Transportation Systems with Quantitative Evaluation.
+Re-Finding Behaviour in Vertical Domains.
+Inverted Treaps.
+Search Result Prefetching on Desktop and Mobile.
+Incorporating User Expectations and Behavior into the Measurement of Search Effectiveness.
+Improving the Quality of Recommendations for Users and Items in the Tail of Distribution.
+Encoding Syntactic Knowledge in Neural Networks for Sentiment Classification.
+Compact Indexing and Judicious Searching for Billion-Scale Microblog Retrieval.
+Search, Mining, and Their Applications on Mobile Devices: Introduction to the Special Issue.
+Collaborative Intent Prediction with Real-Time Contextual Data.
+A Time-Aware Personalized Point-of-Interest Recommendation via High-Order Tensor Factorization.
+Mining Exploratory Behavior to Improve Mobile App Recommendations.
+Curious Cat-Mobile, Context-Aware Conversational Crowdsourcing Knowledge Acquisition.
+Search by Screenshots for Universal Article Clipping in Mobile Apps.
+User Modeling on Demographic Attributes in Big Mobile Social Networks.
+A Neural Network Approach to Jointly Modeling Social Networks and Mobile Trajectories.
+Cross-Platform App Recommendation by Jointly Modeling Ratings and Texts.
+Version-Aware Rating Prediction for Mobile App Recommendation.
+Deriving User Preferences of Mobile Apps from Their Management Activities.
+Computing Urban Traffic Congestions by Incorporating Sparse GPS Probe Data and Social Media Data.
+DeepMob: Learning Deep Knowledge of Human Emergency Behavior and Mobility from Big and Heterogeneous Data.
+Tweet Can Be Fit: Integrating Data from Wearable Sensors and Multiple Social Networks for Wellness Profile Learning.
+Understanding the Purpose of Permission Use in Mobile Apps.
+Identifying Opportunities for Valuable Encounters: Toward Context-Aware Social Matching Systems.
+Latent Discriminative Models for Social Emotion Detection with Emotional Dependency.
+Deep Dependency Substructure-Based Learning for Multidocument Summarization.
+KNET: A General Framework for Learning Word Embedding Using Morphological Knowledge.
+MWI-Sum: A Multilingual Summarizer Based on Frequent Weighted Itemsets.
+A Document Retrieval Model Based on Digital Signal Filtering.
+Transfer Learning to Infer Social Ties across Heterogeneous Networks.
+Power Law Distributions in Information Retrieval.
+Volunteerism Tendency Prediction via Harvesting Multiple Social Networks.
+A Tensor-Based Information Framework for Predicting the Stock Market.
+Subspace Frequency Analysis-Based Field Indices Extraction for Electricity Customer Classification.
+On Effective Location-Aware Music Recommendation.
+Overview of the Special Issue on Trust and Veracity of Information in Social Media.
+Digital Wildfires: Propagation, Verification, Regulation, and Responsible Innovation.
+Geoparsing and Geosemantics for Social Media: Spatiotemporal Grounding of Content Propagating Rumors to Support Trust and Veracity Analysis during Breaking News.
+TISoN: Trust Inference in Trust-Oriented Social Networks.
+Misinformation in Online Social Networks: Detect Them All with a Limited Budget.
+Query Performance Prediction Using Reference Lists.
+Comparing Pointwise and Listwise Objective Functions for Random-Forest-Based Learning-to-Rank.
+Probabilistic Models for Contextual Agreement in Preferences.
+TopPRF: A Probabilistic Framework for Integrating Topic Space into Pseudo Relevance Feedback.
+Examining Additivity and Weak Baselines.
+Measuring the Semantic Uncertainty of News Events for Evolution Potential Estimation.
+Diversifying Query Auto-Completion.
+Overview of the Special Issue on Contextual Search and Recommendation.
+User Activity Patterns During Information Search.
+Who, Where, When, and What: A Nonparametric Bayesian Approach to Context-aware Recommendation and Search for Twitter Users.
+Task-Based Information Interaction Evaluation: The Viewpoint of Program Theory.
+Profile-Based Summarisation for Web Site Navigation.
+A Comparative Analysis of Interleaving Methods for Aggregated Search.
+Web Query Reformulation via Joint Modeling of Latent Topic Dependency and Term Context.
+TASC: A Transformation-Aware Soft Cascading Approach for Multimodal Video Copy Detection.
+Two-Stage Document Length Normalization for Information Retrieval.
+Dynamic User Modeling in Social Media Systems.
+Stochastic Query Covering for Fast Approximate Document Retrieval.
+Induced Sorting Suffixes in External Memory.
+Browsing Hierarchy Construction by Minimum Evolution.
+Metrics and Algorithms for Routing Questions to User Communities.
+A General SIMD-Based Approach to Accelerating Compression Algorithms.
+Understanding and Supporting Cross-Device Web Search for Exploratory Tasks with Mobile Touch Interactions.
+Selective Search: Efficient and Effective Search of Large Textual Collections.
+Belief Dynamics and Biases in Web Search.
+Fast-Forward Index Methods for Pseudo-Relevance Feedback Retrieval.
+The Query Change Model: Modeling Session Search as a Markov Decision Process.
+A Pólya Urn Document Language Model for Improved Information Retrieval.
+Suffix Array Construction in External Memory Using D-Critical Substrings.
+Document Score Distribution Models for Query Performance Inference and Prediction.
+Indexing Word Sequences for Ranked Retrieval.
+Cost-Aware Collaborative Filtering for Travel Tour Recommendations.
+Learning to Recommend Descriptive Tags for Questions in Social Forums.
+Efficient Index-Based Snippet Generation.
+Modeling Term Associations for Probabilistic Information Retrieval.
+Social-Sensed Image Search.
+Theoretical, Qualitative, and Quantitative Analyses of Small-Document Approaches to Resource Selection.
+Topic Modeling for Wikipedia Link Disambiguation.
+LCARS: A Spatial Item Recommender System.
+Georeferencing Wikipedia Documents Using Data from Social Media Sources.
+XXS: Efficient XPath Evaluation on Compressed XML Documents.
+Content-Based Video Copy Detection Benchmarking at TRECVID.
+Trust Prediction via Belief Propagation.
+Patent Query Formulation by Synthesizing Multiple Sources of Relevance Evidence.
+Matrix Factorization with Explicit Trust and Distrust Side Information for Improved Social Recommendation.
+Browse-to-Search: Interactive Exploratory Search with Visual Entities.
+Exploiting Representations from Statistical Machine Translation for Cross-Language Information Retrieval.
+Understanding Intrinsic Diversity in Web Search: Improving Whole-Session Relevance.
+Cache Design of SSD-Based Search Engine Architectures: An Experimental Study.
+Enriching Documents with Examples: A Corpus Mining Approach.
+Approximate Recall Confidence Intervals.
+X-Class: Associative Classification of XML Documents by Structure.
+Regularized Latent Semantic Indexing: A New Approach to Large-Scale Topic Modeling.
+Modeling reformulation using query distributions.
+Transfer joint embedding for cross-domain named entity recognition.
+Studying the clustering paradox and scalability of search in highly distributed environments.
+Sparse hashing for fast multimedia search.
+Efficient fuzzy search in large text collections.
+About learning models with multiple query-dependent features.
+Mining pure high-order word associations via information geometry for information retrieval.
+Fast candidate generation for real-time tweet search with bloom filter chains.
+Discovering tasks from search engine query logs.
+Behavioral dynamics on the web: Learning, modeling, and prediction.
+Fidelity, Soundness, and Efficiency of Interleaved Comparison Methods.
+Effective and Robust Query-Based Stemming.
+Improving Text Classification Accuracy by Training Label Cleaning.
+Social Link Prediction in Online Social Tagging Systems.
+The Impacts of Structural Difference and Temporality of Tweets on Retrieval Effectiveness.
+Efficient Video Stream Monitoring for Near-Duplicate Detection and Localization in a Large-Scale Repository.
+Word-based self-indexes for natural language text.
+Static index pruning in web search engines: Combining term and document popularities with query views.
+Summarizing figures, tables, and algorithms in scientific publications to augment search results.
+Multiple testing in statistical analysis of systems-based information retrieval experiments.
+High-performance processing of text queries with tunable pruned term and term pair indexes.
+Large-scale validation and analysis of interleaved search evaluation.
+Approaches to Exploring Category Information for Question Retrieval in Community Question-Answer Archives.
+A Probabilistic Model to Combine Tags and Acoustic Similarity for Music Retrieval.
+Peer-to-Peer Information Retrieval: An Overview.
+Exploring Question Selection Bias to Identify Experts and Potential Experts in Community Question Answering.
+Predicting Query Performance by Query-Drift Estimation.
+Authorship Attribution Based on Specific Vocabulary.
+Oracle in Image Search: A Content-Based Approach to Performance Prediction.
+A Measurement Framework for Evaluating Emulators for Digital Preservation.
+Special issue on searching speech.
+Direct posterior confidence for out-of-vocabulary spoken term detection.
+The nonverbal structure of patient case discussions in multidisciplinary medical team meetings.
+Comparison of methods for language-dependent and language-independent query-by-example spoken term detection.
+Sibyl, a factoid question-answering system for spoken documents.
+An Online Learning Framework for Refining Recency Search Results with User Click Feedback.
+Detecting and Tracking Topics and Events from Web Search Logs.
+Detecting Fake Medical Web Sites Using Recursive Trust Labeling.
+Stability of Recommendation Algorithms.
+Sentimental Spidering: Leveraging Opinion Information in Focused Crawlers.
+Efficient Entity Translation Mining: A Parallelized Graph Alignment Approach.
+Aggregation Methods for Proximity-Based Opinion Retrieval.
+TOIS Reviewers: October 2009 To September 2012.
+Efficient set intersection for inverted indexing.
+Engineering basic algorithms of an in-memory text search engine.
+Utilizing inter-passage and inter-document similarities for reranking search results.
+Improving graph-walk-based similarity with reranking: Case studies for personal information management.
+Dependable filtering: Philosophy and realizations.
+Extraction, characterization and utility of prototypical communication groups in the blogosphere.
+Diagnostic Evaluation of Information Retrieval Models.
+Concept-Based Information Retrieval Using Explicit Semantic Analysis.
+Improving Recommender Systems by Incorporating Social Contextual Information.
+Contextual Video Recommendation by Multimodal Relevance and User Feedback.
+Effects of Usage-Based Feedback on Video Retrieval: A Simulation-Based Study.
+Identifying, Indexing, and Ranking Chemical Formulae and Chemical Names in Digital Documents.
+Content redundancy in YouTube and its application to video tagging.
+Exploring the music similarity space on the web.
+Toward a semantic granularity model for domain-specific information retrieval.
+Fast construction of the HYB index.
+Upper-bound approximations for dynamic pruning.
+Ranking function adaptation with boosting trees.
+GRAS: An effective and efficient stemming algorithm for information retrieval.
+Recommendation systems with complex constraints: A course recommendation perspective.
+Correlation-based retrieval for heavily changed near-duplicate videos.
+Query modeling for entity search based on terms, categories, and examples.
+Probabilistic static pruning of inverted files.
+Statistical lattice-based spoken document retrieval.
+Semantic clustering of XML documents.
+Tuning the capacity of search engines: Load-driven routing and incremental caching to reduce and balance the load.
+Exploiting query logs for cross-lingual query suggestions.
+Efficient k-nearest neighbor searching in nonordered discrete data spaces.
+Exploiting neighborhood knowledge for single document summarization and keyphrase extraction.
+Effects of position and number of relevant documents retrieved on users' evaluations of system performance.
+Dynamic lightweight text compression.
+Arnoldi versus GMRES for computing pageRank: A theoretical contribution to google's pageRank problem.
+Learning with click graph for query intent classification.
+Using topic themes for multi-document summarization.
+Combining relations for information extraction from free text.
+STEvent: Spatio-temporal event model for social network discovery.
+Probabilistic models for answer-ranking in multilingual question-answering.
+Clustering-based incremental web crawling.
+PageRank without hyperlinks: Structural reranking using links induced by language models.
+An information-theoretic framework for semantic-multimedia retrieval.
+A similarity measure for indefinite rankings.
+The task-dependent effect of tags and ratings on social media access.
+Mining near-duplicate graph for cluster-based reranking of web video search results.
+Sound and complete relevance assessment for XML retrieval.
+Rank-biased precision for measurement of retrieval effectiveness.
+Trusting spam reporters: A reporter-based reputation system for email filtering.
+Extended probabilistic HAL with close temporal association for psychiatric query document retrieval.
+combinFormation: Mixed-initiative composition of image and text surrogates promotes information discovery.
+Toward automatic facet analysis and need negotiation: Lessons from mediated search.
+Automatic metadata generation using associative networks.
+An analysis of latent semantic term self-correlation.
+An adaptive threshold framework for event detection using HMM-based life profiles.
+Information filtering and query indexing for an information retrieval model.
+User language model for collaborative personalized search.
+Textual analysis of stock market prediction using breaking financial news: The AZFin text system.
+Clusters, language models, and ad hoc information retrieval.
+Robust result merging using sample-based score estimates.
+SEA: Segment-enrich-annotate paradigm for adapting dialog-based content for improved accessibility.
+Semisupervised SVM batch mode active learning with applications to image retrieval.
+Bounded coordinate system indexing for real-time video clip search.
+A novel framework for efficient automated singer identification in large music databases.
+PageRank: Functional dependencies.
+Building a framework for the probability ranking principle by a family of expected weighted rank.
+A few good topics: Experiments in topic set reduction for retrieval evaluation.
+A distributed, service-based framework for knowledge applications with multimedia.
+Cyberchondria: Studies of the escalation of medical concerns in Web search.
+MUADDIB: A distributed recommender system supporting device adaptivity.
+Repeatable evaluation of search services in dynamic environments.
+Frequency-based identification of correct translation equivalents (FITE) obtained through transformation rules.
+A formal model of annotations of digital content.
+Does a one-size recommendation system fit all? the effectiveness of collaborative filtering based recommendation systems across different domains and search modes.
+Error correction vs. query garbling for Arabic OCR document retrieval.
+Classification-aware hidden-web text database selection.
+Writeprints: A stylometric approach to identity-level identification and similarity detection in cyberspace.
+Towards a belief-revision-based adaptive and context-sensitive information retrieval system.
+Locality-Based pruning methods for web search.
+DirichletRank: Solving the zero-one gap problem of PageRank.
+On ranking techniques for desktop search.
+Sentiment analysis in multiple languages: Feature selection for opinion classification in Web forums.
+Interpreting TF-IDF term weights as making relevance decisions.
+A basis for information retrieval in context.
+Incremental cluster-based retrieval using compressed cluster-skipping inverted files.
+Unified relevance models for rating prediction in collaborative filtering.
+Assessing multivariate Bernoulli models for information retrieval.
+Introduction to keeping, refinding and sharing personal information.
+How people recall, recognize, and reuse search results.
+Improved search engines and navigation preference in personal information management.
+Exploring memory in email refinding.
+Meta methods for model sharing in personal information systems.
+Organizing and managing personal electronic files: A mechanical engineer's perspective.
+Information scraps: How and why information eludes our personal information management tools.
+Editorial: Reviewer merits and review control in an age of electronic manuscript management systems.
+TOIS reviewers June 2007 through May 2008.
+Precision recall with user modeling (PRUM): Application to structured information retrieval.
+Named entity translation matching and learning: With application for mining unseen translations.
+An empirical investigation of user term feedback in text-based targeted image search.
+Creating and exploiting a comparable corpus in cross-language information retrieval.
+Interest-based personalized search.
+An exploration of the principles underlying redundancy-based factoid question answering.
+Evaluating the accuracy of implicit feedback from clicks and query reformulations in Web search.
+Soft pattern matching models for definitional question answering.
+Automatic classification of Web queries using very large unlabeled query logs.
+Answering XML queries by means of data summaries.
+Online supervised spam filter evaluation.
+Discovering personally meaningful places: An interactive clustering approach.
+On setting the hyper-parameters of term frequency normalization for information retrieval.
+Temporal profiles of queries.
+TOIS reviewers January 2006 through May 2007.
+Adaptive hypermedia through contextualized open hypermedia structures.
+ServiceFinder: A method towards enhancing service portals.
+YASS: Yet another suffix stripper.
+A novel XML music information retrieval method using graph invariants.
+Reducing human interactions in Web directory searches.
+Detection of video sequences using compact signatures.
+Boosting the performance of Web search engines: Caching and prefetching query results by exploiting historical usage data.
+A space-partitioning-based indexing method for multidimensional non-ordered discrete data spaces.
+Summary in context: Searching versus browsing.
+TOIS reviewers 2003--2005.
+User evaluation of Físchlár-News: An automatic broadcast news delivery system.
+A maximal figure-of-merit (MFoM)-learning approach to robust classifier design for text categorization.
+Enhancing relevance feedback in image retrieval using unlabeled data.
+iVIBRATE: Interactive visualization-based framework for clustering large datasets.
+Extraction of coherent relevant passages using hidden Markov models.
+Query enrichment for web-query classification.
+CLAIRE: A modular support vector image indexing and classification system.
+A large scale, corpus-based approach for automatically disambiguating biomedical abbreviations.
+Articulating information needs in XML query languages.
+Dynamic element retrieval in a structured environment.
+Preparing heterogeneous XML for full-text search.
+A system for the static analysis of XPath.
+eXtended cumulated gain measures for the evaluation of content-oriented XML retrieval.
+Introduction to genomic information retrieval.
+An efficient normalized maximum likelihood algorithm for DNA sequence compression.
+A methodology for analyzing SAGE libraries for cancer profiling.
+Historical spatio-temporal aggregation.
+Incorporating contextual information in recommender systems using a multidimensional approach.
+Evaluating implicit measures to improve web search.
+Ad Hoc, self-supervising peer-to-peer search networks.
+CrimeNet explorer: a framework for criminal network knowledge discovery.
+A market-based approach to recommender systems.
+A novel document retrieval method using the discrete wavelet transform.
+Trustworthy 100-year digital objects: durable encoding for when it's too late to ask.
+Evaluating implicit feedback models using searcher simulations.
+Taxonomy generation for text segments: A practical web-based approach.
+Set-based vector model: An efficient approach for correlation-based ranking.
+Learning to crawl: Comparing classification schemes.
+Evolution of web site design patterns.
+Introduction to recommender systems: Algorithms and Evaluation.
+Evaluating collaborative filtering recommender systems.
+Ontological user profiling in recommender systems.
+Latent semantic models for collaborative filtering.
+Applying associative retrieval techniques to alleviate the sparsity problem in collaborative filtering.
+A study of smoothing methods for language models applied to information retrieval.
+Anchor text mining for translation of Web queries: A transitive translation approach.
+Streams, structures, spaces, scenarios, societies (5s): A formal model for digital libraries.
+XIRQL: An XML query language based on information retrieval concepts.
+Relevance models to help estimate document and query parameters.
+Efficient mining of both positive and negative association rules.
+Trustworthy 100-year digital objects: Evidence after every witness is dead.
+PocketLens: Toward a personal recommender system.
+Distributed content-based visual information retrieval system on peer-to-peer networks.
+Qualitative decision making in adaptive presentation of structured information.
+Analysis of lexical signatures for improving information persistence on the World Wide Web.
+Fast phrase querying with combined indexes.
+Information systems interoperability: What lies beneath?
+QProber: A system for automatic classification of hidden-Web databases.
+Local versus global link information in the Web.
+Exploiting hierarchical domain structure to compute similarity.
+Early user - system interaction for database selection in massive domain-specific online environments.
+Performance issues and error analysis in an open-domain question answering system.
+A hierarchical access control model for video database systems.
+Region proximity in metric spaces and its use for approximate similarity search.
+The use of dynamic context to improve casual internet searching.
+Logical and physical design issues for smart card databases.
+Query-independent evidence in home page finding.
+Measuring praise and criticism: Inference of semantic orientation from association.
+MEGA - the maximizing expected generalization algorithm for learning complex query concepts.
+Coverage, relevance, and ranking: The impact of query operators on Web search engine results.
+Comparing the performance of collection selection algorithms.
+A semisupervised learning method to merge search engine results.
+PicASHOW: pictorial authority search by hyperlinks on the web.
+Knowledge encapsulation for focused search from pervasive devices.
+When experts agree: using non-affiliated experts to rank popular topics.
+Query clustering using user logs.
+Efficient web browsing on handheld devices using page and form summarization.
+Placing search in context: the concept revisited.
+Peer-to-peer data trading to preserve information.
+Collection statistics for fast duplicate document detection.
+Burst tries: a fast, efficient data structure for string keys.
+Theory of keyblock-based image retrieval.
+Improving retrieval feedback with multiple term-ranking function combination.
+An intelligent approach to handling imperfect information in concept-based natural language queries.
+A general-purpose compression scheme for large collections.
+Probabilistic models of information retrieval based on measuring the divergence from randomness.
+A semantic network-based design methodology for XML documents.
+Cumulated gain-based evaluation of IR techniques.
+An information-theoretic approach to automatic query expansion.
+A statechart-based model for hypermedia applications.
+Approximate spatio-temporal retrieval.
+Query-based sampling of text databases.
+SALSA: the stochastic approach for link-structure analysis.
+Complete answer aggregates for treelike databases: a novel approach to combine querying and navigation.
+Building a distributed full-text index for the web.
+Scaling question answering to the web.
+WebQuilt: A proxy-based approach to remote web usability testing.
+On the design of a learning crawler for topical resource discovery.
+A highly scalable and effective method for metasearch.
+Application of aboutness to functional benchmarking in information retrieval.
+Computing graphical queries over XML data.
+Genre taxonomy: A knowledge repository of communicative actions.
+Evaluating the performance of distributed architectures for information retrieval using a variety of workloads.
+Shortest-substring retrieval and ranking.
+Improving the effectiveness of information retrieval with local context analysis.
+Fast and flexible word searching on compressed text.
+Extending document management systems with user-specific active properties.
+Chimera: hypermedia for heterogeneous software development enviroments.
+The maximum entropy approach and probabilistic IR models.
+Data integration using similarity joins and a word-based information representation language.
+Model-driven development of Web applications: the AutoWeb system.
+Beneath the surface of organizational processes: a social representation framework for business process redesign.
+Beyond intratransaction association analysis: mining multidimensional intertransaction association rules.
+Predicate Rewriting for Translating Boolean Queries in a Heterogeneous Information System.
+Methods for Information Server Selection.
+The Equalizing Impact of a Group Support System on Status Differentials.
+A Flexible Authorization Mechanism for Relational Data Management Systems.
+Context-Sensitive Learning Methods for Text Categorization.
+Incremental Formalization with the Hyper-Object Substrate.
+A Decision-Theoretic Approach to Database Selection in Networked IR.
+A Corpus Analysis Approach for Automatic Query Expansion and Its Extension to Multiple Databases.
+Context Interchange: New Features and Formalisms for the Intelligent Integration of Information.
+Harp: A Distributed Query System for Legacy Public Libraries and Structured Databases.
+Interface and Data Architecture for Query Preview in Networked Information Systems.
+Integrating geometrical and linguistic analysis for email signature block parsing.
+PIC matrices: a computationally tractable class of probabilistic query operators.
+Efficient passage ranking for document databases.
+The impact on retrieval effectiveness of skewed frequency distributions.
+Hyperdocuments as Automata: Verification of Trace-Based Browsing Properties by Model Checking.
+Evaluation of an Algorithm for Finding a Match of a Distorted Texture Pattern in a Large Image Database.
+Corpus-Based Stemming Using Cooccurrence of Word Cariants.
+Electronic Mail as a Coalition-Building Information Technology.
+The Knowledge in Multiple Human Relevance Judgments.
+A Hypermedia Version Control Framework.
+Self-Spacial Join Selectivity Estimation Using Fractal Concepts.
+Augmenting Organizational Memory: A Field Study of Answer Garden.
+A Study of Probability Kinematics in Information Retrieval.
+Arithmetic Coding Revisited.
+Metric Details for Natural-Language Spatial Relations.
+A Semidiscrete Matrix Decomposition for Latent Semantic Indexing Information Retrieval.
+Collaborative Conceptual Schema Design: A Process Model and Prototype System.
+Structured Hypertext with Domain Semantics.
+Hyperform: A Hypermedia System Development Environment.
+A Probabilistic Relational Algebra for the Integration of Information Retrieval and Database Systems.
+Customizing Information Capture and Access.
+Making a Digital Library: The Contents of the CORE Project.
+A text Compression Scheme that Allows Fast Searching Directly in the Compressed File.
+The Effect of Accessing Nonmatching Documents on Relevance Feedback.
+Access Control for Large Collections.
+Experiences with Selecting Search Engines Using Metasearch.
+Data Structures for Efficient Broker Implementation.
+Modeling Word Occurrences for the Compression of Concordances.
+Recursive Hashing Functions for n-Grams.
+On Automated Message Processing in Electronic Commerce and Work Support Systems: Speech Act Theory and Expressive Felicity.
+A Multilevel Approach to Intelligent Information Filtering: Model, System, and Evaluation.
+Proximal Nodes: A Model to Query Document Databases by Content and Structure.
+A Visual Retrieval Environment for Hypermedia Information Systems.
+Sequential Patterns in Information Systems Development: An Application of a Social Process Model.
+Evaluation of Model-Based Retrieval Effectiveness with OCR Text.
+An Extension of Ukkonen's Enhanced Dynamic Programming ASM Algorithm.
+Document Ranking on Weight-Partitioned Signature Files.
+Using Local Optimality Criteria for Efficient Information Retrieval with Redundant Information Filters.
+TROLL - A Language for Object-Oriented Specification of Information Systems.
+Computerized Performance Monitors as Multidimensional Systems: Derivation and Application.
+Natural-Language Retrieval of Images Based on Descriptive Captions.
+Extending Object-Oriented Systems with Roles.
+A General Explanation Component for Conceptual Modeling in CASE Environments.
+Bias in Computer Systems.
+Self-Indexing Inverted Files for Fast Text Retrieval.
+Information System Behavior Specification by High-Level Petri Nets.
+The Model-Assisted Global Query System for Multiple Databases in Distributed Enterprises.
+Toward a Logical/Physical Theory of Spreadsheet Modeling.
+On Modeling Information Retrieval with Probabilistic Inference.
+From Text to Hypertext by Indexing.
+Some Inconsistencies and Misidentified Modeling Assumptions in Probabilistic Information Retrieval.
+Design and Evaluation of Algorithms for Image Retrieval by Spatial Similarity.
+Feedback Techniques for Continuity and Synchronisation in Multimedia Information Retrieval.
+Experiments with Oval: A Radically Tailorable Tool for Cooperative Work.
+Exceptions and Exception Handling in Computerized Information Processes.
+Document Retrieval in Office Environment: Knowledge Modelling and Browsing.
+Templar: A Knowledge-Based Language for Software Specifications Using Temporal Logic.
+Generalized Fractal Views: A Fractal-Based Method for Controlling Information Display.
+A Network Approach to Probabilistic Information Retrieval.
+On Deductive Database with Incomplete Information.
+A Video Retrieval and Sequencing System.
+Motion Recovery for Video Content Classification.
+Embedded Video in Hypermedia Documents: Supporting Integration and Adaptive Control.
+XMovie: Architecture and Implementation of a Distributed Movie System.
+Editorial.
+Evaluating Hypermedia and Learning: Methods and Results from the Perseus Project.
+A Nested-Graph Model for the Representation and Manipulation of Complex Objects.
+On the Expressive Power of Query Languages.
+Probabilistic Information Retrieval as a Combination of Abstraction, Inductive Learning, and Probabilistic Assumptions.
+Affinity-based management of main memory database clusters.
+Searching the Web.
+Characterizing the scalability of a large web-based shopping system.
+Rethinking the design of the Internet: the end-to-end arguments vs. the brave new world.
+XRel: a path-based approach to storage and retrieval of XML documents using relational databases.
+HTTP Cookies: Standards, privacy, and politics.
+The architecture of robust publishing systems.
+On balancing the load in a clustered web farm.
+Adaptive Knowledge Propagation in Web Ontologies.
+Recommendation in a Changing World: Exploiting Temporal Dynamics in Ratings and Reviews.
+Activity Recommendation with Partners.
+Caching to Reduce Mobile App Energy Consumption.
+List of 2016 TWEB Reviewers.
+Information Sharing by Viewers Via Second Screens for In-Real-Life Events.
+Toward Automated Online Photo Privacy.
+Effort Mediates Access to Information in Online Social Networks.
+Spam Mobile Apps: Characteristics, Detection, and in the Wild Analysis.
+User's Web Page Aesthetics Opinion: A Matter of Low-Level Image Descriptors Based on MPEG-7.
+MultiWiki: Interlingual Text Passage Alignment in Wikipedia.
+Value and Misinformation in Collaborative Investing Platforms.
+Periodicity in User Engagement with a Search Engine and Its Application to Online Controlled Experiments.
+Analyzing the Adoption and Cascading Process of OSN-Based Gifting Applications: An Empirical Study.
+Nonlinear Dynamics of Information Diffusion in Social Networks.
+On Obstructing Obscenity Obfuscation.
+An Empirical Investigation of Ecommerce-Reputation-Escalation-as-a-Service.
+A Bayesian Method for Comparing Hypotheses About Human Trails.
+Multirelational Recommendation in Heterogeneous Networks.
+Nucleus Decompositions for Identifying Hierarchy of Dense Subgraphs.
+Location-Based Distance Measures for Geosocial Similarity.
+Modeling and Evaluating a Robust Feedback-Based Reputation System for E-Commerce Platforms.
+WISeR: A Multi-Dimensional Framework for Searching and Ranking Web APIs.
+LDoW-PaN: Linked Data on the Web - Presentation and Navigation.
+Clickstream User Behavior Models.
+Canonical Forms for Isomorphic and Equivalent RDF Graphs: Algorithms for Leaning and Labelling Blank Nodes.
+A Study of Web Print: What People Print in the Digital Era.
+Exploring and Analyzing the Tor Hidden Services Graph.
+Collusive Opinion Fraud Detection in Online Reviews: A Probabilistic Modeling Approach.
+A Fast and Scalable Mechanism for Web Service Composition.
+Analysis and Solution of CSS-Sprite Packing Problem.
+Discovering Best Teams for Data Leak-Aware Crowdsourcing in Social Networks.
+Individual Judgments Versus Consensus: Estimating Query-URL Relevance.
+Detecting Spam and Promoting Campaigns in Twitter.
+Flexible Construction of Executable Service Compositions from Reusable Semantic Knowledge.
+W-tree: A Compact External Memory Representation for Webgraphs.
+A Spatial-Temporal QoS Prediction Approach for Time-aware Web Service Recommendation.
+A Novel Evidence-Based Bayesian Similarity Measure for Recommender Systems.
+A Buyer-Friendly and Mediated Watermarking Protocol for Web Context.
+Q2P: Discovering Query Templates via Autocompletion.
+Activity Dynamics in Collaboration Networks.
+Probabilistic QoS Aggregations for Service Composition.
+Search and Breast Cancer: On Episodic Shifts of Attention over Life Histories of an Illness.
+What Users Actually Do in a Social Tagging System: A Study of User Behavior in BibSonomy.
+Scalable and Efficient Web Search Result Diversification.
+PeaCE-Ful Web Event Extraction and Processing as Bitemporal Mutable Events.
+A Comprehensive Survey and Classification of Approaches for Community Question Answering.
+Prediction and Predictability for Search Query Acceleration.
+Scanpath Trend Analysis on Web Pages: Clustering Eye Tracking Scanpaths.
+Web Content Classification Using Distributions of Subjective Quality Evaluations.
+From Footprint to Evidence: An Exploratory Study of Mining Social Data for Credit Scoring.
+COIP - Continuous, Operable, Impartial, and Privacy-Aware Identity Validity Estimation for OSN Profiles.
+Manipulation among the Arbiters of Collective Intelligence: How Wikipedia Administrators Mold Public Opinion.
+Elastic Personalized Nonfunctional Attribute Preference and Trade-off Based Service Selection.
+ReputationPro: The Efficient Approaches to Contextual Transaction Trust Computation in E-Commerce Environments.
+Active Learning for Web Search Ranking via Noise Injection.
+Characterizing Web Censorship Worldwide: Another Look at the OpenNet Initiative Data.
+NautiLOD: A Formal Language for the Web of Data Graph.
+Modeling, Enacting, and Integrating Custom Crowdsourcing Processes.
+The Augmented Web: Rationales, Opportunities, and Challenges on Browser-Side Transcoding.
+Integrating Transactions into BPEL Service Compositions: An Aspect-Based Approach.
+A Formal Account of the Open Provenance Model.
+A UI-Centric Approach for the End-User Development of Multidevice Mashups.
+Sampling Content from Online Social Networks: Comparing Random vs. Expert Sampling of the Twitter Stream.
+Should We Use the Sample? Analyzing Datasets Sampled from Twitter's Stream API.
+Reliable and Resilient Trust Management in Distributed Service Provision Networks.
+A Supervised Learning Approach to Protect Client Authentication on the Web.
+Detection of Political Manipulation in Online Communities through Measures of Effort and Collaboration.
+Improving Researcher Homepage Classification with Unlabeled Data.
+Diversionary Comments under Blog Posts.
+Estimating Clustering Coefficients and Size of Social Networks via Random Walk.
+Fona: Quantitative Metric to Measure Focus Navigation on Rich Internet Applications.
+UsageQoS: Estimating the QoS of Web Services through Online User Communities.
+Form-Based Web Service Composition for Domain Experts.
+Second Chance: A Hybrid Approach for Dynamic Result Caching and Prefetching in Search Engines.
+Efficient Time-Stamped Event Sequence Anonymization.
+Control-Flow Patterns for Decentralized RESTful Service Composition.
+Analyzing, Detecting, and Exploiting Sentiment in Web Queries.
+Analysis of Search and Browsing Behavior of Young Users on the Web.
+How to Improve Your Search Engine Ranking: Myths and Reality.
+Leveraging Social Feedback to Verify Online Identity Claims.
+Efficient Multiview Maintenance under Insertion in Huge Social Networks.
+Textual and Content-Based Search in Repositories of Web Application Models.
+Neighbor Selection and Weighting in User-Based Collaborative Filtering: A Performance Prediction Approach.
+Foundations of Trust and Distrust in Networks: Extended Structural Balance Theory.
+Conceptual Development of Custom, Domain-Specific Mashup Platforms.
+Propagating Both Trust and Distrust with Target Differentiation for Combating Link-Based Web Spam.
+Incremental Text Indexing for Fast Disk-Based Search.
+Analyzing and Mining Comments and Comment Ratings on the Social Web.
+Formalizing and verifying protocol refinements.
+Constitutive and regulative specifications of commitment protocols: A decoupled approach.
+Introduction to special section on trust in multiagent systems.
+A framework for trust modeling in multiagent electronic marketplaces with buying advisors to consider varying seller behavior and the limiting of seller bids.
+Building and using social structures: A case study using the agent ART testbed.
+Stereotypical trust and bias in dynamic multiagent systems.
+From manifesta to krypta: The relevance of categories for trusting others.
+Introduction to the special section on intelligent tutoring and coaching systems.
+LONET: An interactive search network for intelligent lecture path generation.
+Personalized reading support for second-language web documents.
+Research commentary: Intelligent systems and technology for integrative and predictive medicine: An ACP approach.
+A parts-based approach for automatic 3D shape categorization using belief functions.
+Learning image-to-class distance metric for image classification.
+A fully online and unsupervised system for large and high-density area surveillance: Tracking, semantic scene learning and abnormality detection.
+A conformant planner based on approximation: CpA(H).
+Introduction to special section on paraphrasing.
+Using targeted paraphrasing and monolingual crowdsourcing to improve translation.
+Distributional phrasal paraphrase generation for statistical machine translation.
+Generating targeted paraphrases for improved translation.
+An abstractive approach to sentence compression.
+An inference-based model of word meaning in context as a paraphrase distribution.
+Paraphrase acquisition via crowdsourcing and machine learning.
+Multitechnique paraphrase alignment: A contribution to pinpointing sub-sentential paraphrases.
+Introduction to the special section on intelligent systems for socially aware computing.
+Pervasive social context: Taxonomy and survey.
+Nontrivial landmark recommendation using geotagged photos.
+Exploring pattern-aware travel routes for trajectory search.
+Semantic trajectories: Mobility data computation and annotation.
+Connecting people through physical proximity and physical resources at a conference.
+Introduction to the special section on social computing, behavioral-cultural modeling, and prediction.
+Optimization-based influencing of village social networks in a counterinsurgency.
+Markov models of social dynamics: Theory and applications.
+Using qualitative reasoning for social simulation of crowds.
+Detecting changes in information diffusion patterns over social networks.
+Analysis of friendship network and its role in explaining obesity.
+Mining search and browse logs for web search: A Survey.
+A survey of appearance models in visual object tracking.
+Perspectives in semantic adaptive social web.
+Social semantic query expansion.
+Web media semantic concept retrieval via tag removal and model fusion.
+Introduction to the special section on intelligent systems for health informatics.
+A temporal pattern mining approach for classifying electronic health record data.
+COM: A method for mining and monitoring human activity patterns in home-based health monitoring systems.
+Dealing with uncertainty: Robust workflow navigation in the healthcare domain.
+CUDIA: Probabilistic cross-level imputation using individual auxiliary information.
+Reliable medical recommendation systems with patient privacy.
+Validation of an ontological medical decision support system for patient treatment using a repository of patient data: Insights into the value of machine learning.
+Customized prediction of respiratory motion with clustering from multiple patient interaction.
+Early prediction of the highest workload in incremental cardiopulmonary tests.
+A semantic framework for intelligent matchmaking for clinical trial eligibility criteria.
+A machine learning approach to college drinking prediction and risk factor identification.
+LocateMe: Magnetic-fields-based indoor localization using smartphones.
+Random walks down the mention graphs for event coreference resolution.
+Introduction.
+Efficient Tag Recommendation for Real-Life Data.
+Scalable Affiliation Recommendation using Auxiliary Networks.
+A Case Study of Collaboration and Reputation in Social Web Search.
+Who is Doing What and When: Social Map-Based Recommendation for Content-Centric Social Web Sites.
+Introduction.
+GAPs: Geospatial Abduction Problems.
+An Adaptive Agent for Negotiating with People in Different Cultures.
+Fair Seeding in Knockout Tournaments.
+Understanding, Manipulating and Searching Hand-Drawn Concept Maps.
+Interactive Image Search by Color Map.
+Cross-Lingual Adaptation Using Structural Correspondence Learning.
+Web Page Summarization for Just-in-Time Contextual Advertising.
+Group Profiling for Understanding Social Structures.
+Two-Word Collocation Extraction Using Monolingual Word Alignment Method.
+Mining Concept Sequences from Large-Scale Search Logs for Context-Aware Query Suggestion.
+Activity Recognition for Dynamic Multi-Agent Teams.
+Introduction to the Special Section on Intelligent Visual Interfaces for Text Analysis.
+Watch the Story Unfold with TextWheel: Visualization of Large-Scale News Streams.
+Visual Abstraction and Ordering in Faceted Browsing of Text Collections.
+PhC: Multiresolution Visualization and Exploration of Text Corpora with Parallel Hierarchical Coordinates.
+TopicNets: Visual Analysis of Large Text Corpora with Topic Modeling.
+DClusterE: A Framework for Evaluating and Understanding Document Clustering Using Visualization.
+TIARA: Interactive, Topic-Based Visual Text Summarization and Analysis.
+Feature-Based Visual Sentiment Analysis of Text Document Streams.
+Introduction to the Special Section on the 2nd Asia Conference on Machine Learning (ACML 2010).
+Conceptual Imitation Learning in a Human-Robot Interaction Paradigm.
+Mining Recurring Concept Drifts with Limited Labeled Streaming Data.
+Ensembles of Restricted Hoeffding Trees.
+A Reliable People Counting System via Multiple Cameras.
+A Fuzzy Logic System for Bargaining in Information Markets.
+Batch Mode Active Learning for Networked Data.
+Adversarial Geospatial Abduction Problems.
+Learning to Infer the Status of Heavy-Duty Sensors for Energy-Efficient Context-Sensing.
+Advertising Keywords Recommendation for Short-Text Web Pages Using Wikipedia.
+Leveraging Auxiliary Data for Learning to Rank.
+Mining the "Voice of the Customer" for Business Prioritization.
+Introduction to the Special Section on Intelligent Multimedia Systems and Technology Part II.
+Machine Recognition of Music Emotion: A Review.
+Robust Video Content Analysis via Transductive Learning.
+Video Human Motion Recognition Using a Knowledge-Based Hybrid Method Based on a Hidden Markov Model.
+Robust Visual Tracking Using an Effective Appearance Model Based on Sparse Coding.
+Context-Aware Semi-Local Feature Detector.
+Distinguishing Facial Features for Ethnicity-Based 3D Face Recognition.
+A Generic Approach for Systematic Analysis of Sports Videos.
+Intelligent Social Media Indexing and Sharing Using an Adaptive Indexing Search Engine.
+Introduction to the Special Section on Artificial Intelligence in Space.
+Dynamic Landmarking for Surface Feature Identification and Change Detection.
+AEGIS Automated Science Targeting for the MER Opportunity Rover.
+Using Clustering and Metric Learning to Improve Science Return of Remote Sensed Imagery.
+Introduction to the Special Section on Distance Metric Learning in Intelligent Systems.
+Multiview Metric Learning with Global Consistency and Local Smoothness.
+Transfer Metric Learning with Semi-Supervised Extension.
+Metric Learning for Estimating Psychological Similarities.
+Mining Travel Patterns from Geotagged Photos.
+Factorization Machines with libFM.
+Introduction to the Special Section on Computational Models of Collective Intelligence in the Social Web.
+Bootstrapping a Game with a Purpose for Commonsense Collection.
+Folksonomy-Based Term Extraction for Word Cloud Generation.
+Identify Online Store Review Spammers via Social Review Graph.
+Using Stochastic Models to Describe and Predict Social Dynamics of Web Users.
+Latent Community Topic Analysis: Integration of Community Discovery with Topic Modeling.
+Latent Geospatial Semantics of Social Media.
+Introduction to the Special Section on Search and Mining User-Generated Content.
+Twitter, MySpace, Digg: Unsupervised Sentiment Analysis in Social Media.
+Leveraging Social Bookmarks from Partially Tagged Corpus for Improved Web Page Clustering.
+Information Retrieval in the Commentsphere.
+On the Relationship between Novelty and Popularity of User-Generated Content.
+Entity-Relationship Queries over Wikipedia.
+EachWiki: Facilitating Wiki Authoring by Annotation Suggestion.
+Nowcasting Events from the Social Web with Statistical Learning.
+Ranking User Influence in Healthcare Social Media.
+Evaluation of Folksonomy Induction Algorithms.
+An Ensemble Architecture for Learning Complex Problem-Solving Techniques from Demonstration.
+Learning Causal Relations in Multivariate Time Series Data.
+Surface Sulfur Detection via Remote Sensing and Onboard Classification.
+Introduction to the special issue on intelligent systems for activity recognition.
+Learning travel recommendations from user-generated GPS traces.
+Discovering routines from large-scale human locations using probabilistic topic models.
+Probabilistic models for concurrent chatting activity recognition.
+Recognizing pair-activities by causality analysis.
+Performance metrics for activity recognition.
+Inferring colocation and conversation networks from privacy-sensitive audio with implications for computational social science.
+FolderPredictor: Reducing the cost of reaching the right folder.
+Introduction to the special issue on intelligent multimedia systems and technology.
+Active learning in multimedia annotation and retrieval: A survey.
+Variational inference with graph regularization for image annotation.
+Collection-based sparse label propagation and its application on social group suggestion from photos.
+Distance metric learning from uncertain side information for automated photo tagging.
+Automatic player labeling, tracking and field registration and trajectory mapping in broadcast soccer video.
+Neighboring joint density-based JPEG steganalysis.
+Probabilistic temporal multimedia data mining.
+Introduction to special issue on machine learning for business applications.
+Prediction in financial markets: The case for small disjuncts.
+A learning-based contrarian trading strategy via a dual-classifier model.
+CORN: Correlation-driven nonparametric learning approach for portfolio selection.
+Social Network Analysis and Mining for Business Applications.
+A helpfulness modeling framework for electronic word-of-mouth on consumer opinion platforms.
+Multifocal learning for customer problem analysis.
+Introduction to special issue on large-scale machine learning.
+PLDA+: Parallel latent dirichlet allocation with data placement and pipeline processing.
+LIBSVM: A library for support vector machines.
+Batch and online learning algorithms for nonconvex neyman-pearson classification.
+Learning to recommend with explicit and implicit social relations.
+Learning to detect malicious URLs.
+Introduction to special issue on computational sustainability.
+Submodularity and its applications in optimized information gathering.
+Sustainable biomass power plant location in the Italian Emilia-Romagna region.
+Temporal data mining approaches for sustainable chiller management in data centers.
+Agent-based homeostatic control for green energy in the smart grid.
+Monitoring global forest cover using data mining.
+MoveMine: Mining moving object data for discovery of animal movement patterns.
+Spatiotemporal correlations in criminal offense records.
+Subkilometer crater discovery with boosting and transfer learning.
+PTIME: Personalized assistance for calendaring.
+Planning solar array operations on the international space station.
+RECYCLE: Learning looping workflows from annotated traces.
+Introduction to ACM TIST.
+Introduction to the ACM TIST special issue AI in social computing and cultural modeling.
+Virtual worlds as cultural models.
+Structured coalitions in resource selection games.
+Opinion formation under costly expression.
+Evolution of state-dependent risk preferences.
+Social media as crisis platform: The future of community maps/crisis maps.
+Accessible image search for colorblindness.
+Preface to special issue on applications of automated planning.
+Applying planning to interactive storytelling: Narrative control using state constraints.
+Planning interventions in biological networks.
+A constraint-based approach to scheduling an individual's activities.
+CORALS: A real-time planner for anti-air defense operations.
+Planning for human-robot teaming in open worlds.
+Human-aware task planning: An application to mobile robots.
+Editorial: TKDD Special Issue on Interactive Data Exploration and Analytics.
+A Viewable Indexing Structure for the Interactive Exploration of Dynamic and Large Image Collections.
+ATR-Vis: Visual and Interactive Information Retrieval for Parliamentary Discussions in Twitter.
+Memory-Efficient and Accurate Sampling for Counting Local Triangles in Graph Streams: From Simple to Multigraphs.
+Visual Analysis of Brain Networks Using Sparse Regression Models.
+Mining Redescriptions with Siren.
+Interactive Discovery of Coordinated Relationship Chains with Maximum Entropy Models.
+VisIRR: A Visual Analytics System for Information Retrieval and Recommendation for Large-Scale Document Data.
+A Session-Based Approach to Fast-But-Approximate Interactive Data Cube Exploration.
+GrammarViz 3.0: Interactive Discovery of Variable-Length Time Series Patterns.
+CommunityDiff: Visualizing Community Clustering Algorithms.
+Learning to Infer Competitive Relationships in Heterogeneous Networks.
+Partial Sum Minimization of Singular Values Representation on Grassmann Manifolds.
+Emerging Trends in Personality Identification Using Online Social Networks - A Literature Survey.
+Systematic Review of Clustering High-Dimensional and Large Datasets.
+Local Spectral Clustering for Overlapping Community Detection.
+Mining Overlapping Communities and Inner Role Assignments through Bayesian Mixed-Membership Models of Networks with Context-Dependent Interactions.
+Profit Maximization with Sufficient Customer Satisfactions.
+Community Detection Using Diffusion Information.
+De-anonymizing Clustered Social Networks by Percolation Graph Matching.
+Joint Representation Learning for Location-Based Social Networks with Multi-Grained Sequential Contexts.
+Collaborative Filtering with Topic and Social Latent Factors Incorporating Implicit Feedback.
+Discovering Communities and Anomalies in Attributed Graphs: Interactive Visual Exploration and Summarization.
+GOOWE: Geometrically Optimum and Online-Weighted Ensemble Classifier for Evolving Data Streams.
+Shop-Type Recommendation Leveraging the Data from Social Media and Location-Based Services.
+Leveraging Neighbor Attributes for Classification in Sparsely Labeled Networks.
+Convex Sparse PCA for Unsupervised Feature Learning.
+Listwise Learning to Rank from Crowds.
+Scalable Clustering by Iterative Partitioning and Point Attractor Representation.
+Latent Time-Series Motifs.
+Sampling for Nyström Extension-Based Spectral Clustering: Incremental Perspective and Novel Analysis.
+Fast Sampling for Time-Varying Determinantal Point Processes.
+Greedily Improving Our Own Closeness Centrality in a Network.
+The Convergence Behavior of Naive Bayes on Large Sparse Datasets.
+Modeling of Geographic Dependencies for Real Estate Ranking.
+Distributed Algorithms for Computing Very Large Thresholded Covariance Matrices.
+World Knowledge as Indirect Supervision for Document Clustering.
+Permanence and Community Structure in Complex Networks.
+Partitioning Networks with Node Attributes by Compressing Information Flow.
+Scalable and Accurate Online Feature Selection for Big Data.
+Structural Analysis of User Choices for Mobile App Recommendation.
+Assignment Problems of Different-Sized Inputs in MapReduce.
+Unsupervised Head-Modifier Detection in Search Queries.
+Lifecycle Modeling for Buzz Temporal Pattern Discovery.
+A Novel Bipartite Graph Based Competitiveness Degree Analysis from Query Logs.
+Comparing Clustering with Pairwise and Relative Constraints: A Unified Framework.
+Mining for Topics to Suggest Knowledge Model Extensions.
+Adaptive Cluster Tendency Visualization and Anomaly Detection for Streaming Data.
+Exploiting Viral Marketing for Location Promotion in Location-Based Social Networks.
+Graph Manipulations for Fast Centrality Computation.
+Finding Dynamic Dense Subgraphs.
+Modeling Buying Motives for Personalized Product Bundle Recommendation.
+Combining Structured Node Content and Topology Information for Networked Graph Clustering.
+An Influence Propagation View of PageRank.
+Learning Multiple Diagnosis Codes for ICU Patients with Local Disease Correlation Mining.
+Scalable and Efficient Flow-Based Community Detection for Large-Scale Graph Analysis.
+Robust Graph Regularized Nonnegative Matrix Factorization for Clustering.
+Partitioned Similarity Search with Cache-Conscious Data Traversal.
+Recommendations Based on Comprehensively Exploiting the Latent Factors Hidden in Items' Ratings and Content.
+Spatial Prediction for Multivariate Non-Gaussian Data.
+Moving Destination Prediction Using Sparse Dataset: A Mobility Gradient Descent Approach.
+A Randomized Rounding Algorithm for Sparse PCA.
+Introduction to Special Issue on the Best Papers from KDD 2016.
+Ranking Causal Anomalies for System Fault Diagnosis via Temporal and Dynamical Analysis on Vanishing Correlations.
+comeNgo: A Dynamic Model for Social Group Evolution.
+Cross-Dependency Inference in Multi-Layered Networks: A Collaborative Filtering Perspective.
+TRIÈST: Counting Local and Global Triangles in Fully Dynamic Streams with Fixed Memory Size.
+Graph-Based Fraud Detection in the Face of Camouflage.
+Assessing Human Error Against a Benchmark of Perfection.
+Discovering Conditional Matching Rules.
+Query-Driven Learning for Predictive Analytics of Data Subspace Cardinality.
+Large-Scale Online Feature Selection for Ultra-High Dimensional Sparse Data.
+Modeling Temporal Activity to Detect Anomalous Behavior in Social Media.
+Rumor Gauge: Predicting the Veracity of Rumors on Twitter.
+Mining Community Structures in Multidimensional Networks.
+Real-Time Large-Scale Map Matching Using Mobile Phone Data.
+Large-Scale Cross-Language Web Page Classification via Dual Knowledge Transfer Using Fast Nonnegative Matrix Trifactorization.
+Social Influence Based Clustering and Optimization over Heterogeneous Information Networks.
+ParCube: Sparse Parallelizable CANDECOMP-PARAFAC Tensor Decomposition.
+Algorithms for Mining the Coevolving Relational Motifs in Dynamic Networks.
+Hierarchical Density Estimates for Data Clustering, Visualization, and Outlier Detection.
+Utility-Theoretic Ranking for Semiautomated Text Classification.
+Discovering Information Propagation Patterns in Microblogging Services.
+Smart Multitask Bregman Clustering and Multitask Kernel Clustering.
+Measuring Temporal Patterns in Dynamic Social Networks.
+Rationality Analytics from Trajectories.
+Socializing by Gaming: Revealing Social Relationships in Multiplayer Online Games.
+Refining Social Graph Connectivity via Shortcut Edge Addition.
+Context-Aware Recommendation Using Role-Based Trust Network.
+ASCOS++: An Asymmetric Similarity Measure for Weighted Networks to Address the Problem of SimRank.
+User Identification Across Social Media.
+Recommending Users and Communities in Social Media.
+GLAD: Group Anomaly Detection in Social Media Analysis.
+A Bayesian Perspective on Locality Sensitive Hashing with Extensions for Kernel Methods.
+Data-Aware Vaccine Allocation Over Large Networks.
+Mining User Development Signals for Online Community Churner Detection.
+Multimodal Data Mining in a Multimedia Database Based on Structured Max Margin Learning.
+Do Anesthesiologists Know What They Are Doing? Mining a Surgical Time-Series Database to Correlate Expert Assessment with Outcomes.
+Collective Graph Identification.
+Mining Influencers Using Information Flows in Social Streams.
+Toward Generalizing the Unification with Statistical Outliers: The Gradient Outlier Factor Measure.
+DeltaCon: Principled Massive-Graph Similarity Function with Attribution.
+Mining Product Adopter Information from Online Reviews for Improving Product Recommendation.
+Adaptive Model Rules From High-Speed Data Streams.
+Synchronization-Core-Based Discovery of Processes with Decomposable Cyclic Dependencies.
+An Efficient Algorithm For Weak Hierarchical Lasso.
+Introduction to the Special Issue of Best Papers in ACM SIGKDD 2014.
+Product Selection Problem: Improve Market Share by Learning Consumer Behavior.
+Catching Synchronized Behaviors in Large Networks: A Graph Mining Approach.
+Heterogeneous Translated Hashing: A Scalable Solution Towards Multi-Modal Similarity Search.
+Guest Editorial: Special Issue on Connected Health at Big Data Era (BigChat): A TKDD Special Issue.
+Kernelized Information-Theoretic Metric Learning for Cancer Diagnosis Using High-Dimensional Molecular Profiling Data.
+Jointly Modeling Label and Feature Heterogeneity in Medical Informatics.
+Mining Dual Networks: Models, Algorithms, and Applications.
+Biomedical Ontology Quality Assurance Using a Big Data Approach.
+Less is More: Building Selective Anomaly Ensembles.
+Co-Clustering Structural Temporal Data with Applications to Semiconductor Manufacturing.
+Inferring Dynamic Diffusion Networks in Online Media.
+Unsupervised Rare Pattern Mining: A Survey.
+CGC: A Flexible and Robust Approach to Integrating Co-Regularized Multi-Domain Graph for Clustering.
+Spatial-Proximity Optimization for Rapid Task Group Deployment.
+Featuring, Detecting, and Visualizing Human Sentiment in Chinese Micro-Blog.
+Eigen-Optimization on Large Graphs by Edge Manipulation.
+An Optimization Framework for Combining Ensembles of Classifiers and Clusterers with Applications to Nontransductive Semisupervised Learning and Transfer Learning.
+A Framework for Exploiting Local Information to Enhance Density Estimation of Data Streams.
+Bayesian Variable Selection in Linear Regression in One Pass for Large Datasets.
+Structured Sparse Boosting for Graph Classification.
+GBAGC: A General Bayesian Framework for Attributed Graph Clustering.
+Uncovering Hierarchical and Overlapping Communities with a Local-First Approach.
+A Generic Multilabel Learning-Based Classification Algorithm Recommendation Method.
+Efficiently Estimating Motif Statistics of Large Networks.
+A Framework for Hierarchical Ensemble Clustering.
+Toward Personalized Context Recognition for Mobile Users: A Semisupervised Bayesian HMM Approach.
+Anomaly Detection from Incomplete Data.
+User Vulnerability and Its Reduction on a Social Networking Site.
+Selecting the Right Correlation Measure for Binary Data.
+Physics-Based Anomaly Detection Defined on Manifold Space.
+Introduction to the Special Issue ACM SIGKDD 2013.
+A Space-Efficient Streaming Algorithm for Estimating Transitivity and Triangle Counts Using the Birthday Paradox.
+A Framework of Mining Trajectories from Untrustworthy Data in Cyber-Physical System.
+Querying Discriminative and Representative Samples for Batch Mode Active Learning.
+Hierarchical Bayesian Inference and Recursive Regularization for Large-Scale Classification.
+Modeling Location-Based User Rating Profiles for Personalized Recommendation.
+Pairwised Specific Distance Learning from Physical Linkages.
+Use of Local Group Information to Identify Communities in Networks.
+Unbiased Characterization of Node Pairs over Large Graphs.
+On Data Publishing with Clustering Preservation.
+Universal and Distinct Properties of Communication Dynamics: How to Generate Realistic Inter-event Times.
+Who Influenced You? Predicting Retweet via Social Influence Locality.
+Mathematical Modeling and Analysis of Product Rating with Partial Information.
+Optimizing Text Quantifiers for Multivariate Loss Functions.
+Information Measures in Statistical Privacy and Data Processing Applications.
+Density-Aware Clustering Based on Aggregated Heat Kernel and Its Transformation.
+Classification with Streaming Features: An Emerging-Pattern Mining Approach.
+Supporting Exploratory Hypothesis Testing and Analysis.
+Process Discovery under Precedence Constraints.
+Improving Top-N Recommendation for Cold-Start Users via Cross-Domain Information.
+Chromatic Correlation Clustering.
+Introduction to special issue on computational aspects of social and information networks: Theory, methodologies, and applications (TKDD-CASIN).
+Uncovering social network Sybils in the wild.
+Scalable and axiomatic ranking of network role similarity.
+Discovering social circles in ego networks.
+A separability framework for analyzing community structure.
+User behavior learning and transfer in composite social networks.
+Network Sampling: From Static to Streaming Graphs.
+Ranking Metric Anomaly in Invariant Networks.
+Discovering General Prominent Streaks in Sequence Data.
+Multiresolution Tensor Decompositions with Mode Hierarchies.
+Robust Manifold Nonnegative Matrix Factorization.
+A Regularization Approach to Learning Task Relationships in Multitask Learning.
+On the Sample Complexity of Random Fourier Features for Online Learning: How Many Random Fourier Features Do We Need?
+Predicting and Identifying Missing Node Information in Social Networks.
+Efficient Discovery of the Most Interesting Associations.
+Optimizing Data Misuse Detection.
+MDL4BMF: Minimum Description Length for Boolean Matrix Factorization.
+Feature Selection for Social Media Data.
+Efficient Discovery of Association Rules and Frequent Itemsets through Sampling with Tight Performance Guarantees.
+Discovering Social Circles in Directed Graphs.
+Random Projections for Linear Support Vector Machines.
+Reconstructing Graphs from Neighborhood Data.
+Nearest Neighbor-Based Classification of Uncertain Data.
+Comparative Document Summarization via Discriminative Sentence Selection.
+Message-Passing Algorithms for Sparse Network Alignment.
+Confidence Weighted Mean Reversion Strategy for Online Portfolio Selection.
+Learning to predict reciprocity and triadic closure in social networks.
+Efficient online learning for multitask feature selection.
+Multilabel relationship learning.
+Exploiting fisher and fukunaga-koontz transforms in chernoff dimensionality reduction.
+Introduction to the Special Issue ACM SIGKDD 2012.
+Addressing Big Data Time Series: Mining Trillions of Time Series Subsequences Under Dynamic Time Warping.
+PathSelClus: Integrating Meta-Path Selection with User-Guided Object Clustering in Heterogeneous Information Networks.
+Active Sampling for Entity Matching with Guarantees.
+Batch Mode Active Sampling Based on Marginal Probability Distribution Matching.
+Instance Annotation for Multi-Instance Multi-Label Learning.
+Parallel Field Ranking.
+iHypR: Prominence ranking in networks of collaborations with hyperedges.
+Social trust prediction using heterogeneous networks.
+Solving inverse frequent itemset mining with infrequency constraints via large-scale linear programs.
+Formal and computational properties of the confidence boost of association rules.
+Classification in P2P networks with cascade support vector machines.
+From Context to Distance: Learning Dissimilarity for Categorical Data Clustering.
+Efficient Mining of Gap-Constrained Subsequences and Its Various Applications.
+Isolation-Based Anomaly Detection.
+A Modular Machine Learning System for Flow-Level Traffic Classification in Large Networks.
+A Sequential Sampling Framework for Spectral k-Means Based on Efficient Bootstrap Accuracy Estimations: Application to Distributed Clustering.
+A Model for Information Growth in Collective Wisdom Processes.
+Generative Models for Evolutionary Clustering.
+The Latent Maximum Entropy Principle.
+Cross-Guided Clustering: Transfer of Relevant Supervision across Tasks.
+Learning bayesian networks from Markov random fields: An efficient algorithm for linear models.
+ciForager: Incrementally discovering regions of correlated change in evolving graphs.
+Comparative document summarization via discriminative sentence selection.
+Forecasting in the NBA and other team sports: Network effects in action.
+Special issue on best of SIGKDD 2011.
+Leakage in data mining: Formulation, detection, and avoidance.
+Summarizing data succinctly with the most informative itemsets.
+Triangle listing in massive networks.
+Multisource domain adaptation and its application to early detection of fatigue.
+Substantial improvements in the set-covering projection classifier CHIRP (composite hypercubes on iterated random projections).
+ACM TKDD Special Issue on Knowledge Discovery for Web Intelligence.
+A Combination Approach to Web User Profiling.
+Discovering Knowledge-Sharing Communities in Question-Answering Forums.
+Modeling Social Annotation: A Bayesian Approach.
+Fast Discovery of Group Lag Correlations in Streams.
+A Framework for Computing the Privacy Scores of Users in Online Social Networks.
+Introduction to Special Issue on Large-Scale Data Mining.
+HADI: Mining Radii of Large Graphs.
+Robust Record Linkage Blocking Using Suffix Arrays and Bloom Filters.
+Temporal Link Prediction Using Matrix and Tensor Factorizations.
+Enhancing Clustering Quality through Landmark-Based Dimensionality Reduction.
+Clustering Large Attributed Graphs: A Balance between Structural and Attribute Similarities.
+Fast Algorithms for Approximating the Singular Value Decomposition.
+Integrating Document Clustering and Multidocument Summarization.
+Indexing Network Structure with Shortest-Path Trees.
+Can the Utility of Anonymized Data be Used for Privacy Breaches?
+Community Discovery via Metagraph Factorization.
+Guest Editorial for Special Issue KDD'10.
+Sequential Modeling of Topic Dynamics with Multiple Timescales.
+Discriminative Topic Modeling Based on Manifold Learning.
+Learning Incoherent Sparse and Low-Rank Patterns from Multiple Tasks.
+Large Linear Classification When Data Cannot Fit in Memory.
+Connecting Two (or Less) Dots: Discovering Structure in News Articles.
+Factor in the neighbors: Scalable and accurate collaborative filtering.
+Motif discovery in physiological datasets: A methodology for inferring predictive elements.
+Self-sufficient itemsets: An approach to screening potentially interesting associations between items.
+Mining multidimensional and multilevel sequential patterns.
+VOGUE: A variable order hidden Markov model with duration based on frequent sequence mining.
+CSNL: A cost-sensitive non-linear decision tree algorithm.
+Analyzing knowledge communities using foreground and background clusters.
+A shared-subspace learning framework for multi-label classification.
+Data mining for discrimination discovery.
+MARGIN: Maximal frequent subgraph mining.
+SCOAL: A framework for simultaneous co-clustering and learning from complex data.
+BISC: A bitmap itemset support counting approach for efficient frequent itemset mining.
+Efficient algorithms for large-scale local triangle counting.
+Multilabel dimensionality reduction via dependence maximization.
+Learning multiple nonredundant clusterings.
+TKDD Special Issue SIGKDD 2009.
+Behavioral Targeting: The Art of Scaling Up Simple Algorithms.
+Centralized and Distributed Anonymization for High-Dimensional Healthcare Data.
+Bayesian Browsing Model: Exact Inference of Document Relevance from Petabyte-Scale Data.
+A Model-Agnostic Framework for Fast Spatial Anomaly Detection.
+Clustering high-dimensional data: A survey on subspace clustering, pattern-based clustering, and correlation clustering.
+Semi-analytical method for analyzing models and model selection measures based on moment analysis.
+DOLPHIN: An efficient algorithm for mining distance-based outliers in very large datasets.
+Bellwether analysis: Searching for cost-effective query-defined predictors in large databases.
+Introduction to special issue on social computing, behavioral modeling, and prediction.
+Expanding network communities from representative examples.
+Analyzing communities and their evolutions in dynamic social networks.
+Blocking links to minimize contamination spread in a social network.
+Modeling information-seeker satisfaction in community question answering.
+Author name disambiguation in MEDLINE.
+Stream data clustering based on grid density and attraction.
+Link spam target detection using page farms.
+Density-based clustering of data streams at multiple resolutions.
+ACM TKDD special issue ACM SIGKDD 2007 and ACM SIGKDD 2008.
+An event-based framework for characterizing the evolutionary behavior of interaction graphs.
+On evolutionary spectral clustering.
+Fast likelihood search for hidden Markov models.
+Efficient algorithms for genome-wide association study.
+Reflect and correct: A misclassification prediction approach to active inference.
+Constructing comprehensive summaries of large event sequences.
+Introduction to special issue on bioinformatics.
+Compositional mining of multirelational biological datasets.
+Discovering semantic biomedical relations utilizing the Web.
+Developmental stage annotation of Drosophila gene expression pattern images via an entire solution path for LDA.
+Adaptive discriminant analysis for microarray-based classification.
+A new efficient probabilistic model for mining labeled ordered trees applied to glycobiology.
+Bregman bubble clustering: A robust framework for mining dense clusters.
+Tree model guided candidate generation for mining frequent subtrees from XML documents.
+Semantic text similarity using corpus-based word similarity and string similarity.
+Incremental tensor analysis: Theory and applications.
+Privacy-preserving classification of vertically partitioned data via random kernels.
+On disclosure risk analysis of anonymized itemsets in the presence of prior knowledge.
+Privacy-preserving decision trees over vertically partitioned data.
+Feature-preserved sampling over streaming data.
+Mining frequent cross-graph quasi-cliques.
+Weighted cluster ensembles: Methods and analysis.
+On domination game analysis for microeconomic data mining.
+Introduction.
+Graph evolution: Densification and shrinking diameters.
+Clustering aggregation.
+Collective entity resolution in relational data.
+Extrapolation errors in linear model trees.
+Mining periodic patterns with gap requirement from sequences.
+Twain: Two-end association miner with precise frequent exhibition periods.
+Introduction to special issue ACM SIGKDD 2006.
+RIC: Parameter-free noise-robust clustering.
+Semantic annotation of frequent patterns.
+Measuring and extracting proximity graphs in networks.
+Information as Basic for High-Precision Text Classification.
+Direct: A Query Facility for Multiple Databases.
+A Speech-Act Negotiation Protocol: Design, Implementation, and Test Use.
+An Exploratory Evaluation of Three Interfaces for Browsing Large Hierarchical Tables of Contents.
+Preference-Based Decision Making for Cooperative Knowledge-Based Systems.
+HDM - A Model-Based Approach to Hypertext Application Design.
+Semantic Data Modeling of Hypermedia Associations.
+An Investigation of Content Representation Using Text Grammars.
+TAE Plus: Transportable Applications Environment Plus: A User Interface Development Environment.
+Designing Database Interfaces with DBface.
+Estimating Accesses in Partitioned Signature File Organizations.
+Incremental Clustering for Dynamic Information Processing.
+A Reappraisal of Structured Analysis: Design in an Organizational Context.
+Virtual Reality for Palmtop Computers.
+A Design Method for "Whole-Hand" Human-Computer Interaction.
+Evaluating 3D Task Performance for Fish Tank Virtual Worlds.
+The Role of Another Spatial Dimension in Software Visualization.
+Decoupled Simulation in Virtual Reality with the MR Toolkit.
+Groupwork Close Up: A Comparison of the Group Design Process With and Without a Simple Group Editor.
+Integration of Interpersonal Space and Shared Workspace: ClearBoard Design and Experiments.
+Capturing, Structuring, and Representing Ubiquitous Audio.
+Phone-Based CSCW: Tools and Trials.
+DAIDA: An Environment for Evolving Information Systems.
+Principles of Delay-Sensitive Multimedia Data Storage and Retrieval.
+The Active Badge Location System.
+Consistency, Standards, and Formal Approaches to Interface Development and Evaluation: A Note on Wiecha, Bennett, Boies, Gould, and Greene.
+ITS and User Interface Consistency: A Response to Grudin.
+Lexical Ambiguity and Information Retrieval.
+Structural Analysis of Hypertexts: Identifying Hierarchies and Useful Metrics.
+Getting Around the Task-Artifact Cycle: How to Make Claims and Design by Scenario.
+Shortening the OED: Experience with a Grammar-Defined Database.
+The Envoy Framework: An Open Architecture for Agents.
+Conceptual Learning in Database Design.
+Converting a Textbook to Hypertext.
+Lessons Learned from SUIT, the Simple User Interface Toolkit.
+A High-Level and Flexible Framework for Implementing Multiuser User Interfaces.
+EmbeddedButtons: Supporting Buttons in Documents.
+A General Framework for Bidirectional Translation between Abstract and Pictorial Data.
+A Model for Input and Output for Multilingual Text in a Windowing Environment.
+Optimal Placement of High-Probability Randomly Retrieved Blocks on CLV Optical Discs.
+A Distributed Object-Oriented Database System Supporting Shared and Private Databases.
+Exploiting Parallelism in Pattern Matching: An Information Retrieval Application.
+Integrating Expert Systems with Group Decision Support Systems.
+Computer-Human Interaction and ACM TOIS - Editorial.
+A Morphological Analysis of the Design Space of Input Devices.
+The Role of Critiquing in Cooperative Problem Solving.
+The Use of Eye Movements in Human-Computer Interaction Techniques: What You Look At is What You Get.
+VideoDraw: A Video Interface for Collaborative Drawing.
+Editorial.
+Evaluation of an Inference Network-Based Retrieval Model.
+A Probabilistic Learning Approach for Document Indexing.
+Search Improvement via Automatic Query Reformulation.
+Order-Preserving Minimal Perfect Hash Functions and Information Retrieval.
+Computer Analysis of User Interfaces Based on Repetition in Transcripts of User Sessions.
+Dynamic Partitioning of Signature Files.
+Inter-Organization Networks, Computer Integration, and Shifts in Interdependence: The Case of the Semiconductor Industry.
+PROXHY: A Process-Oriented Extensible Hypertext Architecture.
+Partially Shared Views: A Scheme for Communicating among Groups that Use Different Type Hierarchies.
+Compression, Information Theory, and Grammars: A Unified Approach.
+Distributed Form Management.
+A Transient Hypergraph-Based Model for Data Access.
+Design of the Mneme Persistent Object Store.
+New Techniques for Best-Match Retrieval.
+Imprecise Information and Uncertainty in Information Systems.
+The UAN: A User-Oriented Representation for Direct Manipulation Interface Designs.
+ITS: A Tool for Rapidly Developing Interactive Applications.
+Unidraw: A Framework for Building Domain-Specific Graphical Editors.
+Interactive Specification of Flexible User Interface Displays.
+A New Model for Handling Input.
+Telos: Representing Knowledge About Information Systems.
+Experiments with a Component Theory of Probabilistic Information Retrieval Based on Single Terms as Document Components.
+Queries and Query Processing in Object-Oriented Database Systems.
+A New Name - ACM Transactions on Information Systems, Editorial.
+Petri-Net-Based Hypertext: Document Structure with Browsing Semantics.
+Formative Design-Evaluation of SuperBook.
+Context and Orientation in Hypermedia Networks.
+A Data Model for Flexible Hypertext Database Systems.
+Object Specialization.
+An Algebra for Structured Office Documents.
+Partitioned Signature Files: Design Issues and Performance Evaluation.
+Optimum Polynomial Retrieval Functions Based on the Probability Ranking Principle.
+A Critical Investigation of Recall and Precision as Measures of Retrieval System Performance.
+Storing Text Retrieval Systems on CD-ROM: Compression and Encryption Considerations.
+Knowledge-Based Search Tactics for an Intelligent Intermediary System.
+Information Retrieval Using a Hypertext-Based Help System.
+The Constituent Object Parser: Syntactic Structure Matching for Information Retrieval.
+Work at Home for Computer Professionals: Current Attitudes and Future Prospects.
+The 3DIS: An Extensible Object-Oriented Information Management Environment.
+C-TODOS: An Automatic Tool for Office System Conceptual Design.
+Query Processing in a Multimedia Document System.
+Implementing Ranking Strategies Using Text Signatures.
+An Experimental Multimedia Mail System.
+Bureaucracies as Deontic Systems.
+Diplans: A New Language for the Study and Implementation of Coordination.
+A Speech-Act-Based Office Modeling Approach.
+Computer Systems and the Design of Organizational Interaction.
+Designing with the User - Book Review.
+VAGUE: A User Interface to Relational Databases that Permits Vague Queries.
+Knowledge-Based Tools to Promote Shared Goals and Terminology Between Interface Designers.
+A Rule-Based Message Filtering System.
+Access to, Usage of, and Outcomes from an Electronic Messaging System.
+Wireless Intraoffice Networks.
+gIBIS: A Hypertext Tool for Exploratory Policy Discussion.
+Object Lens: A "Spreadsheet" for Cooperative Work.
+Work Group Structures and Computer Support: A Field Experiment.
+Diversity in the Use of Electronic Mail: A Preliminary Inquiry.
+Guided Tours and Tabletops: Tools for Communicating in a Hypertext Environment.
+Data Model Issues for Object-Oriented Applications.
+Integrating an Object Server with Other Worlds.
+Iris: An Object-Oriented Database Management System.
+A Shared, Segmented Memory System for an Object-Oriented Database.
+KNOs: KNowledge Acquisition, Dissemination, and Manipulation Objects.
+Semistructured Messages Are Surprisingly Useful for Computer-Supported Coordination.
+Project Nick: Meetings Augmentation and Analysis.
+WYSIWIS Revised: Early Experiences with Multiuser Interfaces.
+Contexts - A Partitioning Concept for Hypertext.
+Data Sharing in Group Work.
+A Knowledge-Based Message Management System.
+Description and Performance Analysis of Signature File Methods for Office Filing.
+An Experimental Study of People Creating Spreadsheets.
+Cost-Benefit Methodology for Office Systems.
+Cooperating Knowledge-Based Assistants for the Office.
+Evolution of an Organizational Interface: The New Business Department at a Large Insurance Firm.
+Strategies for Encouraging Successful Adoption of Office Communication Systems.
+Behavioral Experiments on Handmarkings.
+Augmenting Thesauri for Information Systems.
+Office-by-Example: An Integrated Office System and Database Manager.
+TEXTNET: A Network-Based Approach to Text Handling.
+Whiteboards: A Graphical Database Tool.
+The Spatial Metaphor for User Interfaces: Experimental Tests of Reference by Location versus Name.
+Complete Logical Routings in Computer Mail Systems.
+Communications Design for Co-oP: A Group Decision Support System.
+A Society Model for Office Information Systems.
+A Generator of Direct Manipulation Office Systems.
+BAROQUE: A Browser for Relational Databases.
+Supporting Distributed Office Problem Solving in Organizations.
+The Integration of Computing and Routine Work.
+A Visual Interface for a Database with Version Management.
+Analyzing Due Process in the Workplace.
+Offices Are Open Systems.
+A Model for Naming, Addressing, and Routing.
+SEAVE: A Mechanism for Verifying User Presuppositions in Query Systems.
+Understanding the Office: A Social-Analytic Perspective.
+Multimedia Document Presentation, Information Extraction, and Document Formation in MINOS: A Model and a System.
+A Database Design Methodology and Tool for Information Systems.
+Cursor Movement during Text Editing.
+Query Optimization on Local Area Networks.
+A Prototype Electronic Encyclopedia.
+Electronic Calendars in the Office: An Assessment of User Needs and Current Technology.
+Transportable Natural Language Processing through Simplicity - The PRE System.
+Transporting the Linguistic String Project System from a Medical to a Navy Domain.
+Portability of Syntax and Semantics in Datalog.
+Problems and Some Solutions in Customization of Natural Language Database Front Ends.
+ASK is Transportable in Half a Dozen Ways.
+Transportability to Other Languages: The Natural Language Processing Project in the AI Program at MCC.
+A Butler Process for Resource Sharing on Spice Machines.
+A Federated Architecture for Information Management.
+A Prototype System for the Electronic Storage and Retrieval of Document Images.
+Design Implications of a Task-Driven Approach to Unstructured Cognitive Tasks in Office Work.
+Usage Patterns in an Integrated Voice and Data Communications System.
+An Imperative Sentence Processor for Voice Interactive Office Applications.
+Document Architecture and Text Formatting.
+Productivity Trends in Certain Office-Intensive Sectors of the U.S. Federal Government.
+DITROFF/FFORTID, An Adaptation of the UNIX DITROFF for Formatting Bidirectional Text.
+Ensuring the Court Admissibility of Computer-Generated Records.
+LDC-1: A Transportable, Knowledge-Based Natural Language Processor for Office Environments.
+An Iterative Design Methodology for User-Friendly Natural Language Office Information Applications.
+Interface Design and Multivariate Analysis of UNIX Command Use.
+Message Addressing Schemes.
+The COSIE Communication Subsystem: Support for Distributed Office Applications.
+Object Management in Distributed Information Systems.
+Channel Selection and Effective Communication for Managerial Decision Making.
+The Dimensions of Accessibility to Online Information: Implications for Implementing Office Information Systems.
+The Design Requirements of Office Systems.
+Selected Papers from the Conference on Office Information Systems (Toronto, 1984) - Editor's Introduction.
+An Architecture for Object Management in OIS.
+Task Support in an Office System.
+Managing Transient Internetwork Links in the Xerox Internet.
+38 Offices: Analyzing Needs in Individual Offices.
+FORMANAGER: An Office Forms Management System.
+Signature Files: An Access Method for Documents and Its Analytical Performance Evaluation.
+Office Automation Projects and Their Impact on Organization, Planning, and Control.
+Logical Routing Specification in Office Information Systems.
+A Critical Appraisal of Task Taxonomies as a Tool for Studying Office Activities.
+Editor's introduction.
+The Design of Star's Records Processing: Data Processing for the Noncomputer Professional.
+An OIS Model for Internal Accounting Control Evaluation.
+Supporting Organizational Problem Solving with a Work Station.
+Integrating Diverse Knowledge Sources in Text Recognition.
+Message Files.
+How Do People Organize Their Desks? Implications for the Design of Office Information Systems.
+An Experimental Distributed Modeling System.
+Document Processing in a Relational Database System.
+Details of Command-Language Keystrokes.
+Message System Mores: Etiquette in Laurel.
+Authentication in Office System Internetworks.
+Projecting Demand for Electronic Communications in Automated Offices.
+The Clearinghouse: A Decentralized Agent for Locating Named Objects in a Distributed Environment.
+Learning to Use Word Processors: Problems and Prospects.
+Human Factors Challenges in Creating a Principal Support Office System - The Speech Filing System Approach.
+A Data Modeling Approach for Office Information Systems.
+Office Procedure as Practical Action: Models of Work and System Design.
+Extending the Outreach: From Smart Cities to Connected Communities.
+Adaptive Message Routing and Replication in Mobile Opportunistic Networks for Connected Communities.
+A Multi-Dimensional Smart Community Discovery Scheme for IoT-Enriched Smart Homes.
+On the Need of Trustworthy Sensing and Crowdsourcing for Urban Accessibility in Smart City.
+Crowd-Sourced Data Collection for Urban Monitoring via Mobile Sensors.
+ODIN: Obfuscation-Based Privacy-Preserving Consensus Algorithm for Decentralized Information Fusion in Smart Device Networks.
+Quantify Resilience Enhancement of UTS through Exploiting Connected Community and Internet of Everything Emerging Technologies.
+Hadoop-Based Intelligent Care System (HICS): Analytical Approach for Big Data in IoT.
+Real-Time Traffic Event Detection From Social Media.
+Seamless Virtual Network for International Business Continuity in Presence of Intentional Blocks.
+Behind the Myths of Citizen Participation: Identifying Sustainability Factors of Hyper-Local Information Systems.
+TOIT Reviewers over 2015 and 2016.
+Introduction to the Special Issue on Emerging Software Technologies for Internet-Based Systems: Internetware and DevOps.
+Adaptive Speculation for Efficient Internetware Application Execution in Clouds.
+CloudMF: Model-Driven Management of Multi-Cloud Applications.
+Architectural Principles for Cloud Software.
+Fuzzy Clustering of Crowdsourced Test Reports for Apps.
+CrowdService: Optimizing Mobile Crowdsourcing and Service Composition.
+Improving Verification Accuracy of CPS by Modeling and Calibrating Interaction Uncertainty.
+Multi-Objective Optimization of Deployment Topologies for Distributed Applications.
+Utility-Based Decision Making for Migrating Cloud-Based Applications.
+An Online Algorithm for Task Offloading in Heterogeneous Mobile Clouds.
+Privacy-Preserving Publishing of Multilevel Utility-Controlled Graph Datasets.
+Exploiting Content Spatial Distribution to Improve Detection of Intrusions.
+Guest Editors' Introduction.
+Genetic Algorithms for Solving Problems of Access Control Design and Reconfiguration in Computer Networks.
+Quantifying Privacy Leakage in Multi-Agent Planning.
+Decision Networks for Security Risk Assessment of Critical Infrastructures.
+SHARE: A Stackelberg Honey-Based Adversarial Reasoning Engine.
+Fine-Grained Access Control via Policy-Carrying Data.
+Collaborative Location Recommendation by Integrating Multi-dimensional Contextual Information.
+Toward Efficient Short-Video Sharing in the YouTube Social Network.
+Cross-Browser Differences Detection Based on an Empirical Metric for Web Page Visual Similarity.
+A Learning-Based Framework for Improving Querying on Web Interfaces of Curated Knowledge Bases.
+Are We There Yet? IPv6 in Australia and China.
+Duplicate Detection in Programming Question Answering Communities.
+Providing Geo-Elasticity in Geographically Distributed Clouds.
+Interest-Aware Content Discovery in Peer-to-Peer Social Networks.
+Affect and Interaction in Agent-Based Systems and Social Media: Guest Editors' Introduction.
+Brains or Beauty: How to Engender Trust in User-Agent Interactions.
+Implementing and Evaluating a Laughing Virtual Character.
+Other-Condemning Moral Emotions: Anger, Contempt and Disgust.
+Toward Formal Modeling of Affective Agents in a BDI Architecture.
+Show Me You Care: Trait Empathy, Linguistic Style, and Mimicry on Facebook.
+Processing Affect in Social Media: A Comparison of Methods to Distinguish Emotions in Tweets.
+Using Centrality Measures to Predict Helpfulness-Based Reputation in Trust Networks.
+Improving the Efficiency of an Online Marketplace by Incorporating Forgiveness Mechanism.
+Privacy-Enhanced Television Audience Measurements.
+Introduction to the Special Issue on Advances in Social Computing.
+Detecting Influencers in Multiple Online Genres.
+Anonymous or Not? Understanding the Factors Affecting Personal Mobile Data Disclosure.
+Eliciting Structured Knowledge from Situated Crowd Markets.
+Formation and Reciprocation of Dyadic Trust.
+Measurement Theory-Based Trust Management Framework for Online Social Communities.
+Cyber-Physical Social Networks.
+Can We Predict a Riot? Disruptive Event Detection Using Twitter.
+Dual Structure Constrained Multimodal Feature Coding for Social Event Detection from Flickr Data.
+Progressive Random Indexing: Dimensionality Reduction Preserving Local Network Dependencies.
+Spinel: An Opportunistic Proxy for Connecting Sensors to the Internet of Things.
+Statistical Learning of Domain-Specific Quality-of-Service Features from User Reviews.
+Argumentation in Social Media.
+Debating Technology for Dialogical Argument: Sensemaking, Engagement, and Analytics.
+Using Argumentative Structure to Interpret Debates in Online Deliberative Democracy and eRulemaking.
+Stance and Sentiment in Tweets.
+An Argumentation Approach for Resolving Privacy Disputes in Online Social Networks.
+A Universal Model for Discourse-Level Argumentation Analysis.
+Experimental Assessment of Aggregation Principles in Argumentation-Enabled Collective Intelligence.
+Using Argumentation to Improve Classification in Natural Language Problems.
+Mitigating Data Sparsity Using Similarity Reinforcement-Enhanced Collaborative Filtering.
+Towards Inferring Communication Patterns in Online Social Networks.
+Guest Editorial: The Provenance of Online Data.
+Taming the Costs of Trustworthy Provenance through Policy Reduction.
+A Canonical Form for PROV Documents and Its Application to Equality, Signature, and Validation.
+Managing Provenance of Implicit Data Flows in Scientific Experiments.
+Facilitating Adoption of Internet Technologies and Services with Externalities via Cost Subsidization.
+Exploiting Contextual Information in Attacking Set-Generalized Transactions.
+The Uncertain Web: Concepts, Challenges, and Current Solutions.
+Towards Anomalous Diffusion Sources Detection in a Large Network.
+Quality-Based Online Data Reconciliation.
+Supervised Anomaly Detection in Uncertain Pseudoperiodic Data Streams.
+Using an Epidemiological Approach to Maximize Data Survival in the Internet of Things.
+Constructing Maintainable Semantic Relation Network from Ambiguous Concepts in Web Content.
+sCARE: Reputation Estimation for Uncertain Web Services.
+SoIoT: Toward A User-Centric IoT-Based Service Framework.
+Things of Interest Recommendation by Leveraging Heterogeneous Relations in the Internet of Things.
+Argumentation Mining: State of the Art and Emerging Trends.
+A Scalable Framework for Provisioning Large-Scale IoT Deployments.
+Unsupervised Extraction of Popular Product Attributes from E-Commerce Web Sites by Considering Customer Reviews.
+Multiobjective Optimization for Brokering of Multicloud Service Composition.
+Negotiating Premium Peering Prices: A Quantitative Model with Applications.
+Patterns in the Chaos - A Study of Performance Variation and Predictability in Public IaaS Clouds.
+MARSA: A Marketplace for Realtime Human Sensing Data.
+Mining and Quality Assessment of Mashup Model Patterns with the Crowd: A Feasibility Study.
+rSYBL: A Framework for Specifying and Controlling Cloud Services Elasticity.
+Irony Detection in Twitter: The Role of Affective Content.
+Model-Based Collaborative Personalized Recommendation on Signed Social Rating Networks.
+Dynamic and Efficient Private Keyword Search over Inverted Index-Based Encrypted Data.
+Internet of Things (IoT): Smart and Secure Service Delivery.
+Secure Data-Centric Access Control for Smart Grid Services Based on Publish/Subscribe Systems.
+Password-Authenticated Group Key Exchange: A Cross-Layer Design.
+Authentication Protocol for an IoT-Enabled LTE Network.
+Advanced Security Testbed Framework for Wearable IoT Devices.
+Intelligent Intrusion Detection in Low-Power IoTs.
+Crowdsourced Mobile Data Transfer with Delay Bound.
+Characterization of Wireless Multidevice Users.
+Special Issue on Foundations of Social Computing: Enabling Social Applications via Decentralized Social Data Management.
+Net Neutrality: Discrimination, Competition, and Innovation in the UK and US.
+Strategic Formation of Credit Networks.
+Aggregate Characterization of User Behavior in Twitter and Analysis of the Retweet Graph.
+P2P-Based, Multi-Attribute Resource Discovery under Real-World Resources and Queries.
+Interaction-Based Recommendations for Online Communities.
+Bottom-Up Fault Management in Service-Based Systems.
+The Effect of Data Caps upon ISP Service Tier Design and Users.
+Progressive Batch Medical Image Retrieval Processing in Mobile Wireless Networks.
+JCloudScale: Closing the Gap Between IaaS and PaaS.
+P-DONAS: A P2P-Based Domain Name System in Access Networks.
+Introduction to Theme Section on Trust in Social Networks and Systems.
+The Relevance of Categories for Trusting Information Sources.
+On Selecting Recommenders for Trust Evaluation in Online Social Networks.
+Chasing Offensive Conduct in Social Networks: A Reputation-Based Practical Approach for Frisber.
+Modelling the Role of Trust in Social Relationships.
+Event Recognition Challenges and Techniques: Guest Editors' Introduction.
+Approximate Semantic Matching of Events for the Internet of Things.
+PADUA: Parallel Architecture to Detect Unexplained Activities.
+Adaptive Speculative Processing of Out-of-Order Event Streams.
+Decentralized Fault-Tolerant Event Correlation.
+MCEP: A Mobility-Aware Complex Event Processing System.
+Efficient Stream Provenance via Operator Instrumentation.
+Special Issue on Pricing and Incentives in Networks and Systems: Guest Editors' Introduction.
+Distributed Content Curation on the Web.
+Influence of Search Neutrality on the Economics of Advertisement-Financed Content.
+Regulation of Off-Network Pricing in a Nonneutral Network.
+Economic Viability of Paris Metro Pricing for Digital Services.
+Adoption of Bundled Services with Network Externalities and Correlated Affinities.
+Understanding Quota Dynamics in Wireless Networks.
+Demand-Invariant Price Relationships and Market Outcomes in Competitive Private Commons.
+Approximation Algorithms for Secondary Spectrum Auctions.
+Revenue Guarantees in the Generalized Second Price Auction.
+Is the Price of Anarchy the Right Measure for Load-Balancing Games?
+Secure Team Composition to Thwart Insider Threats and Cyber-Espionage.
+Economic Model-Driven Cloud Service Composition.
+Recommendation and Weaving of Reusable Mashup Model Patterns for Assisted Development.
+Introduction to the Special Issue on Foundations of Social Computing.
+A Commitment-Based Infrastructure for Programming Socio-Technical Systems.
+On the Dynamics of Social Media Popularity: A YouTube Case Study.
+Ontology-Based Query Answering with Group Preferences.
+Revealing the City That We Cannot See.
+Integrating Social and Auxiliary Semantics for Multifaceted Topic Modeling in Twitter.
+SESAME: Mining User Digital Footprints for Fine-Grained Preference-Aware Social Media Search.
+A Context-Based Approach to Reconciling Data Interpretation Conflicts in Web Services Composition.
+Investigating Users' Perspectives of Web Single Sign-On: Conceptual Gaps and Acceptance Model.
+A Multimedia Recommender System.
+A Graph Analytical Approach for Topic Detection.
+LAKE: A Server-Side Authenticated Key-Establishment with Low Computational Workload.
+User and ISP Rights of Device Attachment and Device Management.
+Dissecting Darknets: Measurement and Performance Analysis.
+Microcomputations as Micropayments in Web-based Services.
+Cheating in Online Games: A Social Network Perspective.
+Cost-Aware Cloud Bursting for Enterprise Applications.
+Personalizing Top-k Processing Online in a Peer-to-Peer Social Tagging Network.
+Web Service Compositions with Fuzzy Preferences: A Graded Dominance Relationship-Based Approach.
+Equipping IDEs with XML-Path Reasoning Capabilities.
+One-time cookies: Preventing session hijacking attacks with stateless authentication tokens.
+Minersoft: Software retrieval in grid and cloud computing infrastructures.
+Theory and network applications of balanced kautz tree structures.
+Juno: A Middleware Platform for Supporting Delivery-Centric Applications.
+Using Priced Options to Solve the Exposure Problem in Sequential Auctions.
+Exploiting and Maintaining Materialized Views for XML Keyword Queries.
+Providing Users' Anonymity in Mobile Hybrid Networks.
+Modeling Decentralized Reputation-Based Trust for Initial Transactions in Digital Environments.
+A Proxy View of Quality of Domain Name Service, Poisoning Attacks and Survival Strategies.
+Vision for TOIT.
+TOIT Administrative Updates.
+When Amazon Meets Google: Product Visualization by Exploring Multiple Web Sources.
+SafeVchat: A System for Obscene Content Detection in Online Video Chat Services.
+Resolvers Revealed: Characterizing DNS Resolvers and their Clients.
+Exploiting Service Usage Information for Optimizing Server Resource Management.
+Characterizing Intelligence Gathering and Control on an Edge Network.
+Anomaly Detection in Dynamic Systems Using Weak Estimators.
+Impact of XML Schema Evolution.
+Comparing ingress and egress detection to secure interdomain routing: An experimental analysis.
+Distributed application configuration, management, and visualization with plush.
+ACCENT: Cognitive cryptography plugged compression for SSL/TLS-based cloud computing services.
+User-perceived quality assessment of streaming media using reduced feature sets.
+Introduction to special issue on context-aware web services for the future internet.
+Context-aware services engineering: Models, transformations, and verification.
+Vulnerabilities and countermeasures in context-aware social rating services.
+Context-aware web search in ubiquitous sensor environments.
+A smart web service based on the context of things.
+Context-sensitive user interfaces for semantic services.
+Firewall policy change-impact analysis.
+Towards the taxonomy-oriented categorization of yellow pages queries.
+A framework for personalizing web search with concept-based user profiles.
+A market-based bandwidth charging framework.
+Semantic integrity in large-scale online simulations.
+A programmable network address translator: Design, implementation, and performance.
+Privacy-preserving similarity-based text retrieval.
+Detecting visually similar Web pages: Application to phishing detection.
+BogusBiter: A transparent protection against phishing attacks.
+Teaching Johnny not to fall for phish.
+Using probabilistic confidence models for trust inference in Web-based social networks.
+Peeking Through the Cloud: Client Density Estimation via DNS Cache Probing.
+A Framework for Large-Scale Detection of Web Site Defacements.
+Forecasting Click-Through Rates Based on Sponsored Search Advertiser Bids and Intermediate Variable Regression.
+A Framework for Classification of Traffic Management Practices as Reasonable or Unreasonable.
+Achieving Data Consistency by Contextualization in Web-Based Collaborative Applications.
+Novelty and Diversity in Top-N Recommendation - Analysis and Evaluation.
+Properties and Evolution of Internet Traffic Networks from Anonymized Flow Data.
+Load Balancing and Range Queries in P2P Systems Using P-Ring.
+Resource overbooking and application profiling in a shared Internet hosting platform.
+Flexible provisioning of web service workflows.
+A model of process documentation to determine provenance in mash-ups.
+A peer-to-peer recommender system based on spontaneous affinities.
+Implications of Internet architecture on net neutrality.
+On the state of IP spoofing defense.
+Retrieving XML data from heterogeneous sources through vague querying.
+Analysis of single and networked auctions.
+An online blog reading system by topic clustering and personalized ranking.
+An ontology-driven approach for semantic information retrieval on the Web.
+Web service clustering using multidimensional angles as proximity measures.
+Using a fuzzy classification approach to assess e-commerce Web sites: An empirical investigation.
+Fast XML document filtering by sequencing twig patterns.
+Detection of corrupted schema mappings in XML data integration systems.
+Controlling entity state updates to maintain remote consistency within a distributed interactive application.
+Distribution fairness in Internet-scale networks.
+Introduction to special issue on semantic Web services.
+A semantic approach to approximate service retrieval.
+Model-driven design and development of semantic Web service applications.
+A context-based mediation approach to compose semantic Web services.
+Web services discovery in secure collaboration environments.
+Introduction to special issue internet technologies for distance education.
+Nearcast: A locality-aware P2P live streaming approach for distance education.
+Personalizing access to learning networks.
+A multimedia broker to support accessible and mobile learning through learning objects adaptation.
+Technology supports for distributed and collaborative learning over the internet.
+Guest editorial: Service-oriented computing.
+A framework for service-oriented computing with C and C++ Web service components.
+Conformance checking of service behavior.
+QoS-Aware service management for component-based distributed applications.
+Pattern-based design of a service-oriented middleware for remote object federations.
+Security and identification indicators for browsers against spoofing and phishing attacks.
+Security analysis of Internet technology components enabling globally distributed workplaces - a framework.
+Design and implementation trade-offs for wide-area resource discovery.
+Semantics-based composition-oriented discovery of Web services.
+Resource space model, OWL and database: Mapping and integration.
+Improving Web search using image snippets.
+Internet content filtering using isotonic separation on content category ratings.
+Model-driven development of context-aware Web applications.
+Equipping smart devices with public key signatures.
+The Web as a graph: How far we are.
+Defeating DDoS attacks by fixing the incentive chain.
+Adapting Web information extraction knowledge via mining site-invariant and site-dependent features.
+Provisioning servers in the application tier for e-commerce systems.
+Requirements for scalable access control and security management architectures.
+XQueC: A query-conscious compressed XML database.
+Supporting ad-hoc resource sharing on the Web: A peer-to-peer approach to hypermedia link services.
+Optimal design of english auctions with discrete bid levels.
+Guest editorial: The Internet and outsourcing.
+24-hour knowledge factory: Using Internet technology to leverage spatial and temporal separations.
+The Internet's role in offshored services: A case study of India.
+Impact of Internet-based distributed monitoring systems on offshore sourcing of services.
+Preserving data privacy in outsourcing data aggregation services.
+Introduction to intelligent techniques for Web personalization.
+Mining User preference using Spy voting for search engine personalization.
+Supporting intelligent Web search.
+Web site personalization based on link analysis and navigational patterns.
+Generating semantically enriched user profiles for Web personalization.
+Toward trustworthy recommender systems: An analysis of attack models and algorithm robustness.
+IDN server proxy architecture for Internationalized Domain Name resolution and experiences with providing Web services.
+Web servers under overload: How scheduling can help.
+Supporting complex queries on multiversion XML documents.
+Design and implementation of the Web-enabled NIST design repository.
+A stochastic model for the evolution of the Web allowing link deletion.
+Core algorithms in the CLEVER system.
+Stanford WebBase components and applications.
+Behavior-based modeling and its application to Email analysis.
+A compressor for effective archiving, retrieval, and updating of XML documents.
+A wide-area Distribution Network for free software.
+PageRank revisited.
+Performance and overhead of semantic cache management.
+A mobile computing middleware for location- and context-aware internet data services.
+Computing customized page ranks.
+Online information disclosure: Motivators and measurements.
+Automated gathering of Web information: An in-depth examination of agents interacting with search engines.
+A heuristic bidding strategy for buying multiple goods in multiple english auctions.
+Inferring binary trust relationships in Web-based social networks.
+An embedded domain-specific language for type-safe server-side web scripting.
+A multi-agent infrastructure for developing personalized web-based systems.
+Motion prediction for caching and prefetching in mouse-driven DVE navigation.
+Inside PageRank.
+Using certified policies to regulate E-commerce transactions.
+What makes the differences: benchmarking XML database implementations.
+Learning algorithms for single-instance electronic negotiations using the time-dependent behavioral tactic.
+Link analysis ranking: algorithms, theory, and experiments.
+Moderately hard, memory-bound functions.
+Supporting application development in the semantic web.
+A fragment-based approach for efficiently creating dynamic web content.
+Graphical query interfaces for semistructured data: the QURSED system.
+Model-driven design and deployment of service-enabled web applications.
+Optimal methods for coordinated enroute web caching for tree networks.
+Characterizing a national community web.
+Flash crowd mitigation via adaptive admission control based on application-level observations.
+Corrigenda.
+Effective Web browsing through content delivery adaptation.
+Characteristics of streaming media stored on the Web.
+Portlet syndication: Raising variability concerns.
+Taxonomy of XML schema languages using formal language theory.
+Fighting the spam wars: A remailer approach with restrictive aliasing.
+Optimizing result prefetching in web search engines with segmented indices.
+Fine-grained control of security capabilities.
+An open architecture for next-generation telecommunication services.
+Guest editorial: Machine learning for the Internet.
+Learning to find answers to questions on the Web.
+Selective Markov models for predicting Web page accesses.
+PageCluster: Mining conceptual link hierarchies from Web log files for adaptive Web site navigation.
+LinkSelector: A Web mining approach to hyperlink selection for Web portals.
+Defending against an Internet-based attack on the physical world.
+Answering queries using views: A KRDB perspective for the semantic Web.
+Recovery guarantees for Internet applications.
+Agent trade servers in financial exchange systems.
+Guest editorial: Machine learning for the Internet.
+Collaborative recommendation: A robustness analysis.
+Topical web crawlers: Evaluating adaptive algorithms.
+Market-based recommendation: Agents that compete for consumer attention.
+Web mining for web personalization.
+(How) can mobile agents do secure electronic transactions on untrusted hosts? A survey of the security issues and the current solutions.
+Design and development of data-intensive web sites: The araneus approach.
+The use of web structure and content to identify subjectively interesting web usage patterns.
+XDuce: A statically typed XML processing language.
+Privacy through pseudonymity in user-adaptive systems.
+Developing a bidding agent for multiple heterogeneous auctions.
+Southampton TAC: An adaptive autonomous trading agent.
+Location management for mobile commerce applications in wireless Internet environment.
+Estimating frequency of change.
+Quality of service in an information economy.
+Efficient scheduling of Internet banner advertisements.
+Measuring and characterizing end-to-end Internet service performance.
+Architecture and performance of server-directed transcoding.
+An optimal strategy for sellers in an online auction.
+A self-configuring and self-administering name system with dynamic address assignment.
+On filter effects in web caching hierarchies.
+Principled design of the modern Web architecture.
+xlinkit: a consistency checking and smart link generation service.
+Evaluating the competitive effects of mergers of internet backbone providers.
+Self-similarity in the web.
+Engineering web cache consistency.
+Literature-based discovery on the World Wide Web.
+The platform for privacy preference as a social protocol: An examination within the U.S. policy context.

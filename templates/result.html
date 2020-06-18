@@ -1,0 +1,204 @@
+$def with (json_str)
+
+<!DOCTYPE html PUBLIC “-//W3C//DTD XHTML 1.0 Strict//EN” “http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd”>
+<html xmlns=”http://www.w3.org/1999/xhtml”>
+
+<head>
+    <meta http-equiv=”Content-Type” content=”text/html; charset=utf-8″ />
+    <title>信息检索</title>
+    <style>
+        .title {
+            color: #666666;
+            font-weight: 700;
+            text-decoration: none;
+            display: block;
+            font-size: 20px;
+        }
+
+        .title:hover {
+            text-decoration: underline;
+        }
+
+        .name {
+            color: #7d848a;
+        }
+
+        .wrapper {
+            margin-left: 50px;
+        }
+
+        .outer {
+            margin: 25px;
+            border-bottom: 1px solid white;
+            padding-bottom: 16px;
+            margin-top: 45px;
+        }
+
+        .inner {
+            font-size: 10px;
+        }
+
+        .relative {
+            color: #a79999;
+            font-size: 15px;
+            margin-top: 20px;
+            font-weight: 500;
+        }
+
+        ul{
+            margin: 0px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="wrapper">
+        <div class="outer item1">
+            <span class="name"></span>
+            <a class="title"></a>
+            <span class="date"></span>
+            <span class="journal"></span>
+
+            <br>
+            <div class="relative">你可能感兴趣的论文：</div>
+            <ul>
+                <li>
+                    <div class="inner more-five1">
+                        <span class="name"></span>
+                        <a class="in-title"></a>
+                        <span class="date"></span>
+                        <span class="journal"></span>
+                    </div>
+                </li>
+                <li>
+                    <div class="inner more-five2">
+                        <span class="name"></span>
+                        <a class="in-title"></a>
+                        <span class="date"></span>
+                        <span class="journal"></span>
+                    </div>
+                </li>
+                <li>
+                    <div class="inner more-five3">
+                        <span class="name"></span>
+                        <a class="in-title"></a>
+                        <span class="date"></span>
+                        <span class="journal"></span>
+                    </div>
+                </li>
+                <li>
+                    <div class="inner more-five4">
+                        <span class="name"></span>
+                        <a class="in-title"></a>
+                        <span class="date"></span>
+                        <span class="journal"></span>
+                    </div>
+                </li>
+                <li>
+                    <div class="inner more-five5">
+                        <span class="name"></span>
+                        <a class="in-title"></a>
+                        <span class="date"></span>
+                        <span class="journal"></span>
+                    </div>
+                </li>
+            </ul>
+
+        </div>
+        <div class="outer item2">
+            <span class="name"></span>
+            <a class="title"></a>
+            <span class="date"></span>
+            <span class="journal"></span>
+            <span class="journal"></span>
+        </div>
+        <div class="outer item3">
+            <span class="name"></span>
+            <a class="title"></a>
+            <span class="date"></span>
+            <span class="journal"></span>
+        </div>
+        <div class="outer item4">
+            <span class="name"></span>
+            <a class="title"></a>
+            <span class="date"></span>
+            <span class="journal"></span>
+        </div>
+        <div class="outer item5">
+            <span class="name"></span>
+            <a class="title"></a>
+            <span class="date"></span>
+            <span class="journal"></span>
+        </div>
+        <div class="outer item6">
+            <span class="name"></span>
+            <a class="title"></a>
+            <span class="date"></span>
+            <span class="journal"></span>
+        </div>
+        <div class="outer item7">
+            <span class="name"></span>
+            <a class="title"></a>
+            <span class="date"></span>
+            <span class="journal"></span>
+        </div>
+        <div class="outer item8">
+            <span class="name"></span>
+            <a class="title"></a>
+            <span class="date"></span>
+            <span class="journal"></span>
+        </div>
+        <div class="outer item9">
+            <span class="name"></span>
+            <a class="title"></a>
+            <span class="date"></span>
+            <span class="journal"></span>
+        </div>
+        <div class="outer item10">
+            <span class="name"></span>
+            <a class="title"></a>
+            <span class="date"></span>
+            <span class="journal"></span>
+        </div>
+    </div>
+
+
+</body>
+<script>
+    a = "$json_str";
+    a = a.replace(/&quot;/g, '"')
+    var json_str = JSON.parse(a)
+    ten_list = json_str.ten_list
+    five_list = json_str.five_list
+
+    for (var i = 0; i < ten_list.length; i++) {
+        var tmp_item = document.querySelector('.item' + (i + 1))
+        tmp_item.style.borderBottomColor = "black"
+        var name_node = tmp_item.firstElementChild
+        var title_node = name_node.nextElementSibling
+        var date_node = title_node.nextElementSibling
+        var journal_node = date_node.nextElementSibling
+
+        name_node.innerText = ten_list[i].author
+        title_node.innerText = ten_list[i].title
+        title_node.href = ten_list[i].link
+        date_node.innerText = ten_list[i].year
+        journal_node.innerText = ten_list[i].journal
+    }
+
+    for (var i = 0; i < five_list.length; i++) {
+        var tmp_item = document.querySelector('.more-five' + (i + 1))
+        var name_node = tmp_item.firstElementChild
+        var title_node = name_node.nextElementSibling
+        var date_node = title_node.nextElementSibling
+        var journal_node = date_node.nextElementSibling
+
+        name_node.innerText = five_list[i].author
+        title_node.innerText = five_list[i].title
+        title_node.href = five_list[i].link
+        date_node.innerText = five_list[i].year
+        journal_node.innerText = five_list[i].journal
+    }
+</script>
+
+</html>
